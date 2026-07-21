@@ -1,12 +1,14 @@
 {
-  "name": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-  "short_name": "Lucid Blocks",
-  "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
+  "name": "Other Mommy Wiki - Cast, Plot, Trailer & Book",
+  "short_name": "Other Mommy",
+  "description": "Other Mommy Wiki covers the 2026 supernatural horror film from director Rob Savage and Blumhouse: full cast, plot, Jessica Chastain's dual role, trailer, and the Josh Malerman novel Incidents Around the House.",
   "start_url": "/",
   "display": "standalone",
   "orientation": "any",
-  "theme_color": "#1a7a7a",
+  "theme_color": "#af1d4d",
   "background_color": "#0a0a0a",
+  "lang": "en",
+  "categories": ["entertainment", "movies"],
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
