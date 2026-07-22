@@ -1,12 +1,580 @@
 {
+  "seo": {
+    "home": {
+      "title": "Other Mommy (2026) - Casting, Synopsis, Bande-annonce & Livre",
+      "description": "Other Mommy (2026) guide du film d'horreur : date de sortie, casting complet, synopsis, rôle double de Jessica Chastain, direction de Rob Savage, bande-annonce, et le roman de Josh Malerman.",
+      "keywords": "Other Mommy 2026, Jessica Chastain, Rob Savage, Blumhouse, Incidents Around the House, casting, synopsis, bande-annonce",
+      "ogTitle": "Other Mommy (2026) - Casting, Synopsis, Bande-annonce & Livre",
+      "ogDescription": "Other Mommy (2026) guide du film d'horreur : date de sortie, casting complet, synopsis, rôle double de Jessica Chastain, direction de Rob Savage, bande-annonce, et le roman de Josh Malerman.",
+      "twitterTitle": "Other Mommy (2026) - Casting, Synopsis, Bande-annonce & Livre",
+      "twitterDescription": "Other Mommy (2026) guide du film d'horreur : date de sortie, casting, Jessica Chastain, Rob Savage, bande-annonce, et le roman de Josh Malerman."
+    }
+  },
   "nav": {
-    "release": "Release",
-    "plot": "Plot",
-    "cast": "Cast",
-    "characters": "Characters",
+    "release": "Date de sortie",
+    "plot": "Synopsis",
+    "cast": "Casting",
+    "characters": "Personnages",
     "production": "Production",
-    "trailer": "Trailer",
-    "book": "Book",
-    "reviews": "Reviews"
+    "trailer": "Bande-annonce",
+    "book": "Livre",
+    "reviews": "Avis"
+  },
+  "common": {
+    "home": "Accueil",
+    "more": "Plus",
+    "playNow": "Obtenir des billets",
+    "switchLanguage": "Changer de langue",
+    "switchTheme": "Changer de thème",
+    "lightMode": "Mode clair",
+    "darkMode": "Mode sombre",
+    "notFound": "Page non trouvée",
+    "notFoundDescription": "La page que vous cherchez n'existe pas.",
+    "backToHome": "Retour à l'accueil",
+    "relatedArticles": "Articles liés",
+    "readMore": "En savoir plus",
+    "articlesComingSoon": "Articles bientôt disponibles"
+  },
+  "hero": {
+    "badge": "Film d'horreur surnaturel",
+    "title": "Other Mommy",
+    "description": "Découvrez Other Mommy, le film d'horreur surnaturel 2026 de Rob Savage et Blumhouse. Jessica Chastain incarne un rôle terrifiant en double adapté du roman Incidents Around the House de Josh Malerman.",
+    "getFreeCodesCTA": "Regarder la bande-annonce",
+    "playOnSteamCTA": "Obtenir des billets",
+    "stats": {
+      "stat1": {
+        "value": "9 oct. 2026",
+        "label": "Sortie en salle"
+      },
+      "stat2": {
+        "value": "Rob Savage",
+        "label": "Réalisateur"
+      },
+      "stat3": {
+        "value": "Horreur",
+        "label": "Genre"
+      },
+      "stat4": {
+        "value": "Jessica Chastain",
+        "label": "Starring"
+      }
+    }
+  },
+  "gameFeature": {
+    "title": "Film d'Other Mommy",
+    "description": "Un film d'horreur surnaturel de 2026 réalisé par Rob Savage et Blumhouse, adapté de 'Incidents Around the House' de Josh Malerman et mettant en vedette Jessica Chastain dans un rôle double glaçant."
+  },
+  "tools": {
+    "title": "Other Mommy",
+    "titleHighlight": "Guide",
+    "subtitle": "Tout ce que vous devez savoir sur le film d'horreur surnaturel de 2026 de Blumhouse et Universal Pictures.",
+    "cards": [
+      {
+        "icon": "Film",
+        "title": "Aperçu d'Other Mommy",
+        "description": "Réalisateur, distribution, studios, date de sortie et de quoi le film traite"
+      },
+      {
+        "icon": "BookOpen",
+        "title": "Intrigue d'Other Mommy",
+        "description": "Bela, l'entité, et la famille au cœur de l'horreur"
+      },
+      {
+        "icon": "Users",
+        "title": "Distribution d'Other Mommy",
+        "description": "Liste complète de la distribution et les rôles qu'ils interprètent"
+      },
+      {
+        "icon": "Ghost",
+        "title": "L'entité Other Mommy",
+        "description": "La nature de l'entité, ses demandes et sa connexion à Bela"
+      },
+      {
+        "icon": "Clapperboard",
+        "title": "Production d'Other Mommy",
+        "description": "Rob Savage, Blumhouse, Atomic Monster et Universal"
+      },
+      {
+        "icon": "Play",
+        "title": "Trailer d'Other Mommy",
+        "description": "Trailer officiel, teasers et le lancement marketing"
+      },
+      {
+        "icon": "BookText",
+        "title": "Roman d'Other Mommy",
+        "description": "Incidents Around the House de Josh Malerman"
+      },
+      {
+        "icon": "CalendarDays",
+        "title": "Sortie d'Other Mommy",
+        "description": "Date de sortie, lancement en salle et réception précoce"
+      }
+    ]
+  },
+  "modules": {
+    "otherMommyMovieOverview": {
+      "eyebrow": "About the Film",
+      "title": "Aperçu du film Other Mommy",
+      "intro": "Other Mommy est un film d'horreur surnaturel à venir réalisé par Rob Savage et produit par Blumhouse Productions et Atomic Monster, avec Universal Pictures en charge de la distribution. Il adapte le roman d'horreur 'Incidents Around the House' de Josh Malerman et sort en salles nord-américaines le 9 octobre 2026. Jessica Chastain joue un rôle double en tant que mère Ursula et l'entité sinistre appelée Other Mommy.",
+      "items": [
+        {
+          "title": "Director",
+          "description": "Rob Savage, connu pour ses films d'horreur atmosphériques, de vie à l'écran et de suspense lent."
+        },
+        {
+          "title": "Lead Actor",
+          "description": "Jessica Chastain joue un rôle double en tant que mère Ursula et l'entité Other Mommy."
+        },
+        {
+          "title": "Release Date",
+          "description": "Sortie en Amérique du Nord le 9 octobre 2026."
+        },
+        {
+          "title": "Studios",
+          "description": "Produit par Blumhouse Productions et Atomic Monster; distribué par Universal Pictures."
+        },
+        {
+          "title": "Basé sur",
+          "description": "Le roman Incidents Around the House de Josh Malerman, auteur de Bird Box."
+        },
+        {
+          "title": "Genre",
+          "description": "Horreur surnaturelle avec des éléments domestiques et psychologiques."
+        }
+      ]
+    },
+    "otherMommyPlotAndStory": {
+      "eyebrow": "Histoire",
+      "title": "Intrigue et histoire d'Other Mommy",
+      "intro": "L'histoire suit l'octogénaire Bela, dont la famille est son monde entier. Mais à côté de sa mère, de son père (Daddo) et de sa grand-mère, il y a aussi l'Other Mommy, une entité maléfique qui a visité Bela aussi longtemps qu'elle se souvient et qui répète à chaque fois qu'elle veut entrer dans son cœur.",
+      "faqs": [
+        {
+          "question": "De quoi s'agit-il d'Other Mommy?",
+          "answer": "Other Mommy se concentre sur l'octogénaire Bela, qui est visitée chaque soir par une entité maléfique qu'elle appelle Other Mommy. L'entité répète à chaque fois qu'elle veut entrer dans le cœur de Bela, et sa présence s'intensifie au fur et à mesure que des fissures apparaissent dans le mariage de ses parents."
+        },
+        {
+          "question": "Qui est Bela dans Other Mommy?",
+          "answer": "Bela est la jeune fille au cœur d'Other Mommy. L'histoire est racontée du point de vue de son enfance, ce qui amplifie la terreur alors qu'elle essaie de faire sens d'une force menaçante qu'elle est la seule à voir."
+        },
+        {
+          "question": "Que veut l'Other Mommy?",
+          "answer": "La demande récurrente de l'Other Mommy est d'être autorisée à entrer dans le cœur de Bela. Cette demande troublante est le moteur du tension de l'histoire et la source de la terreur nocturne de Bela tout au long d'Other Mommy."
+        },
+        {
+          "question": "Comment la famille s'intègre-t-elle dans Other Mommy?",
+          "answer": "Dans Other Mommy, l'entité semble se nourrir du tourbillon émotionnel au sein du ménage de Bela, en particulier des problèmes conjugaux entre ses parents. À mesure que la famille se casse, l'Other Mommy grandit en force et en menacité."
+        },
+        {
+          "question": "Quel est le ton d'Other Mommy?",
+          "answer": "Other Mommy est un thriller domestique qui brûle lentement, mélangeant la terreur surnaturelle avec la drame familial, en maintenant la menace intime et ancrée dans la maison."
+        }
+      ]
+    },
+    "otherMommyCastAndCharacters": {
+      "eyebrow": "Distribution",
+      "title": "Distribution et personnages d'Other Mommy",
+      "intro": "Other Mommy réunit une distribution menée par Jessica Chastain dans un double rôle, soutenue par Jay Duplass et la jeune actrice Arabella Olivia Clark dans le rôle de Bela, aux côtés d'un ensemble de comédiens de caractère familiers.",
+      "cast": [
+        {
+          "actor": "Jessica Chastain",
+          "role": "Ursula / Other Mommy",
+          "note": "Joue un double rôle en tant que mère de Bela et l'entité surnaturelle."
+        },
+        {
+          "actor": "Jay Duplass",
+          "role": "Russ",
+          "note": "Le père de Bela."
+        },
+        {
+          "actor": "Arabella Olivia Clark",
+          "role": "Bela",
+          "note": "La jeune fille de huit ans au cœur de l'histoire."
+        },
+        {
+          "actor": "Dichen Lachman",
+          "role": "Distribution secondaire",
+          "note": "Rejoint l'ensemble de l'Other Mommy dans un rôle secondaire."
+        },
+        {
+          "actor": "Arian Moayed",
+          "role": "Distribution secondaire",
+          "note": "Fait partie de l'ensemble secondaire d'Other Mommy."
+        },
+        {
+          "actor": "Karen Allen",
+          "role": "Distribution secondaire",
+          "note": "Ajout vétéran à la distribution d'Other Mommy."
+        },
+        {
+          "actor": "Sean Kaufman",
+          "role": "Distribution",
+          "note": "Un membre du casting secondaire dans Other Mommy."
+        }
+      ]
+    },
+    "otherMommyEntity": {
+      "eyebrow": "L'Entité",
+      "title": "Qui est l'Other Mommy ?",
+      "intro": "L'Other Mommy est l'entité maléfique qui hante Bela. Ce n'est pas simplement un fantôme, mais une présence qui semble refléter et en travestir la maternité, grandissant en puissance au côté de l'effondrement émotionnel de la famille.",
+      "faqs": [
+        {
+          "question": "Qu'est-ce que l'Other Mommy ?",
+          "answer": "L'Other Mommy est une entité surnaturelle maléfique qui visite Bela et prend la forme d'une mère. Elle semble familière mais profondément erronée, une double de la soins maternels inquiétante."
+        },
+        {
+          "question": "Qu'est-ce que l'Other Mommy veut ?",
+          "answer": "La demande répétée de l'Other Mommy est d'entrer dans le cœur de Bela, une demande troublante qui alimente la peur centrale et l'escalade de l'histoire."
+        },
+        {
+          "question": "Pourquoi l'Other Mommy cible-t-elle Bela ?",
+          "answer": "L'Other Mommy est attirée par le chaos et la tristesse dans la vie de Bela, en particulier le tourbillon dans le mariage de ses parents, et grandit en puissance à mesure que ce tourbillon s'aggrave."
+        },
+        {
+          "question": "Comment se comporte l'Other Mommy ?",
+          "answer": "L'Other Mommy a visité Bela chaque nuit aussi longtemps qu'elle se souvient. Elle peut sembler amicale à certains moments, mais son visage bouge et change de manière inquiétante, signalant sa véritable nature."
+        },
+        {
+          "question": "L'Other Mommy est-elle liée à la famille ?",
+          "answer": "L'Other Mommy semble se nourrir des fractures de la famille, rendant la drame domestique indissociable de la menace surnaturelle au cœur du film."
+        }
+      ]
+    },
+    "otherMommyProduction": {
+      "eyebrow": "Derrière les coulisses",
+      "title": "Production de l'Other Mommy",
+      "intro": "L'Other Mommy est une collaboration entre deux des plus grands noms du cinéma d'horreur moderne. L'adaptation apporte le terror littéraire de Josh Malerman dans le pipeline de blockbusters d'horreur de Blumhouse.",
+      "items": [
+        {
+          "title": "Réalisateur : Rob Savage",
+          "description": "Rob Savage réalise l'Other Mommy, apportant sa réputation de cinéma d'horreur tendu et innovant au projet."
+        },
+        {
+          "title": "Blumhouse Productions",
+          "description": "Jason Blum produit l'Other Mommy, le studio derrière une longue série de succès commerciaux dans le domaine de l'horreur."
+        },
+        {
+          "title": "Atomic Monster",
+          "description": "Atomic Monster cos-produit l'Other Mommy, la société de production axée sur l'horreur de James Wan, en partenariat avec Blumhouse."
+        },
+        {
+          "title": "Universal Pictures",
+          "description": "Universal Pictures s'occupe de la distribution mondiale en salles pour l'Other Mommy, offrant au film une large sortie studio."
+        },
+        {
+          "title": "Basé sur le roman",
+          "description": "Le scénario de l'Other Mommy adapte Incidents Around the House, le roman d'horreur acclamé de Josh Malerman de 2024."
+        },
+        {
+          "title": "Lien avec l'auteur",
+          "description": "Josh Malerman, l'auteur du roman d'origine de l'Other Mommy, est surtout connu pour Bird Box, qui a également été adapté en film majeur."
+        }
+      ]
+    },
+    "otherMommyTrailerAndMedia": {
+      "eyebrow": "Médias",
+      "title": "Trailer et médias de l'Other Mommy",
+      "intro": "La promotion de l'Other Mommy a commencé à créer l'anticipation avant sa sortie en octobre 2026, avec le trailer officiel offrant aux spectateurs leur première vision prolongée du ton terrifiant du film.",
+      "items": [
+        {
+          "title": "Trailer officiel",
+          "description": "Le trailer officiel de l'Other Mommy a été lancé, mettant en valeur le double rôle de Jessica Chastain et l'horreur domestique inquiétante du film."
+        },
+        {
+          "title": "Première apparition du trailer",
+          "description": "Le trailer de l'Other Mommy a été signalé comme étant attaché aux projections théâtrales de The Odyssey, atteignant un large public dans les cinémas."
+        },
+        {
+          "title": "Réaction du public",
+          "description": "Les premières réactions ont décrit le trailer de l'Other Mommy comme véritablement effrayant, avec des accounts de sauts de la peur qui ont surpris le public des cinémas."
+        },
+        {
+          "title": "Première vue",
+          "description": "Matériel promotionnel pour Other Mommy met en avant l'imaginaire maternel étrange et la perspective de l'enfant de Bela sur la terreur."
+        },
+        {
+          "title": "Tonalité marketing",
+          "description": "La campagne Other Mommy met l'accent sur la déscente angoissante et la présence inquiétante de l'Other Mommy plutôt que sur le sang."
+        }
+      ]
+    },
+    "otherMommyBook": {
+      "eyebrow": "L'OEuvre originale",
+      "title": "Other Mommy, Source de l'OEuvre: Incidents Around the House",
+      "intro": "Avant de devenir un film, Other Mommy était Incidents Around the House, un roman d'épouvante de Josh Malerman raconté entirely de la perspective d'un enfant. Le livre a établi l'entité, la famille et le malaise que l'adaptation apporte à l'écran.",
+      "items": [
+        {
+          "title": "Auteur : Josh Malerman",
+          "description": "OEuvre originale écrite par Josh Malerman, l'auteur de thriller best-seller le plus connu pour Bird Box."
+        },
+        {
+          "title": "Point de vue",
+          "description": "Le roman derrière Other Mommy est raconté entirely de la perspective de l'octogénaire Bela, amplifiant la peur par une compréhension limitée d'un enfant."
+        },
+        {
+          "title": "L'Entité",
+          "description": "Le livre établit l'Other Mommy comme une présence qui visite Bela chaque soir, demandant à entrer dans son céur."
+        },
+        {
+          "title": "Dynamique familiale",
+          "description": "Le roman Other Mommy lie la menace surnaturelle aux fractures émotionnelles de la famille de Bela, en particulier le mariage problématique de ses parents."
+        },
+        {
+          "title": "Réception",
+          "description": "Le roman qui a inspiré Other Mommy a reçu des critiques élogieuses de la part des lecteurs d'épouvante et a été elogié pour son originalité et son narratif centré sur l'enfant."
+        },
+        {
+          "title": "Adaptation",
+          "description": "Le film Other Mommy adapte le prémisse principal et les personnages du roman pour l'écran sous la direction de Rob Savage."
+        }
+      ]
+    },
+    "otherMommyReleaseAndReviews": {
+      "eyebrow": "Sortie",
+      "title": "Other Mommy Sortie et Critiques",
+      "intro": "Other Mommy passe d'un roman d'épouvante célébré à une grande sortie cinématographique. Voici les principaux étapes de son voyage à l'écran.",
+      "milestones": [
+        {
+          "date": "2024",
+          "title": "Roman publié",
+          "description": "Josh Malerman's Incidents Around the House est publié, présentant Bela et l'Other Mommy aux lecteurs."
+        },
+        {
+          "date": "Pré-production",
+          "title": "Adaptation du film annoncée",
+          "description": "Une adaptation d'Other Mommy entre en développement avec Blumhouse et Atomic Monster en production."
+        },
+        {
+          "date": "2026",
+          "title": "Rob Savage dirige",
+          "description": "Rob Savage est attaché à diriger Other Mommy, avec Jessica Chastain prévue de diriger le casting dans un double rôle."
+        },
+        {
+          "date": "Juillet 2026",
+          "title": "Vidéo teaser officielle publiée",
+          "description": "Le premier vidéo teaser officiel d'Other Mommy début, attaché aux projections cinématographiques de The Odyssey."
+        },
+        {
+          "date": "9 octobre 2026",
+          "title": "Sortie en salle",
+          "description": "Other Mommy arrive dans les cinémas nord-américains, distribué par Universal Pictures."
+        }
+      ]
+    }
+  },
+  "faq": {
+    "title": "Foire aux questions",
+    "titleHighlight": "Toute l'information dont vous avez besoin sur Other Mommy",
+    "subtitle": "De quoi s'agit-il d'Other Mommy ?",
+    "questions": [
+      {
+        "question": "De quoi parle Other Mommy ?",
+        "answer": "Other Mommy est un film d'horreur surnaturel de 2026 sur une huitième année, Bela, qui est visitée chaque nuit par une entité maléfique appelée Other Mommy qui exige d'entrer dans son cœur."
+      },
+      {
+        "question": "Quand sort Other Mommy ?",
+        "answer": "Other Mommy est prévu pour une sortie en salle en Amérique du Nord le 9 octobre 2026, distribué par Universal Pictures."
+      },
+      {
+        "question": "Qui joue dans Other Mommy ?",
+        "answer": "Other Mommy avec Jessica Chastain dans un double rôle en tant que la mère d'Bela, Ursula, et l'entité Other Mommy, aux côtés de Jay Duplass et Arabella Olivia Clark en tant que Bela."
+      },
+      {
+        "question": "Qui réalise Other Mommy ?",
+        "answer": "Other Mommy est réalisé par Rob Savage et produit par Blumhouse Productions et Atomic Monster."
+      },
+      {
+        "question": "Quel livre est à l'origine de Other Mommy ?",
+        "answer": "Other Mommy est adapté de Incidents Around the House, le roman d'horreur de 2024 de Josh Malerman, auteur de Bird Box."
+      },
+      {
+        "question": "Où puis-je voir le trailer de Other Mommy ?",
+        "answer": "Le trailer officiel de Other Mommy a été publié et peut être trouvé sur YouTube, ayant fait ses débuts attaché aux projections théâtrales de The Odyssey."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Prêt à découvrir Other Mommy ?",
+    "description": "Regardez le trailer officiel et suivez les dernières nouvelles sur Other Mommy, le film d'horreur surnaturel de 2026 de Blumhouse et Universal Pictures.",
+    "joinCommunity": "Regardez le Trailer",
+    "joinGame": "Voir sur IMDb"
+  },
+  "footer": {
+    "title": "Other Mommy Wiki",
+    "description": "Votre hub complet de ressources pour Other Mommy (2026) : distribution, intrigue, trailer, date de sortie et le roman de Josh Malerman Incidents Around the House.",
+    "resources": "Ressources",
+    "community": "Officiel",
+    "legal": "Légal",
+    "discord": "Regardez le Trailer",
+    "twitter": "IMDb",
+    "steamCommunity": "Universal Pictures",
+    "steamStore": "Blumhouse",
+    "about": "À propos",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions de service",
+    "copyrightNotice": "Droit d'auteur",
+    "copyright": "© 2026 Other Mommy Wiki. Non affilié à Universal Pictures, Blumhouse Productions, Atomic Monster ou les réalisateurs.",
+    "disclaimer": "Site web de fan non officiel."
+  },
+  "pages": {
+    "release": {
+      "title": "Other Mommy Date de Sortie et Billets",
+      "description": "Date de sortie théâtrale, distribution, notes et informations sur les billets pour Other Mommy (2026).",
+      "metaTitle": "Other Mommy Date de Sortie, Billets et Déroulement Théâtral (2026)",
+      "metaDescription": "Date de sortie de Other Mommy, déroulement théâtral, distribution par Universal Pictures, notes et détails sur les billets pour le film d'horreur surnaturel de 2026.",
+      "categoryLabel": "LANCEMENT",
+      "whatIs": "Lancement d'Other Mommy",
+      "whatIsDescription": "Tout sur le lancement théâtral d'Other Mommy : le lancement nord-américain le 9 octobre 2026, la distribution par Universal Pictures et où trouver des billets.",
+      "why": "Pourquoi suivre le lancement d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Date de Sortie",
+        "step1Description": "Other Mommy arrive en salles nord-américaines le 9 octobre 2026.",
+        "step2Title": "Distribution",
+        "step2Description": "Universal Pictures s'occupe du lancement mondial en salles.",
+        "step3Title": "Billets",
+        "step3Description": "Trouvez les détails de la prévente et des billets à mesure que la sortie de Other Mommy approche."
+      },
+      "featured": "Mises à jour de la sortie en vedette",
+      "all": "Tous les articles de sortie"
+    },
+    "plot": {
+      "title": "Explication du scénario et de l'histoire d'Other Mommy",
+      "description": "L'histoire complète d'Other Mommy : Bela, l'entité, et la famille au cœur de l'horreur.",
+      "metaTitle": "Explication du scénario et de l'histoire d'Other Mommy - Bela et l'entité",
+      "metaDescription": "Explication du scénario d'Other Mommy : huit ans, l'entité Other Mommy, sa demande d'entrer dans son cœur, et le tourbillon familial qui nourrit l'horreur.",
+      "categoryLabel": "SCÉNARIO",
+      "whatIs": "Scénario d'Other Mommy",
+      "whatIsDescription": "Un aperçu de l'histoire d'Other Mommy : le prétexte, les règles de l'entité, et les dynamiques familiales qui alimentent la terreur.",
+      "why": "Pourquoi lire le guide du scénario d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Le Prétexte",
+        "step1Description": "Comprenez les visites nocturnes de Bela par l'Other Mommy.",
+        "step2Title": "Les Règles de l'Entité",
+        "step2Description": "Apprenez ce que veut l'Other Mommy et comment elle se renforce.",
+        "step3Title": "La Famille",
+        "step3Description": "Voyez comment le tourbillon familial de Bela alimente la menace surnaturelle."
+      },
+      "featured": "Articles en vedette sur le scénario",
+      "all": "Tous les articles sur le scénario"
+    },
+    "cast": {
+      "title": "Distribution et Acteurs d'Other Mommy",
+      "description": "Liste complète de la distribution pour Other Mommy, y compris le rôle double de Jessica Chastain et le groupe de soutien.",
+      "metaTitle": "Distribution et Acteurs d'Other Mommy - Jessica Chastain, Jay Duplass et Distribution Complète",
+      "metaDescription": "Distribution complète d'Other Mommy : Jessica Chastain dans un rôle double, Jay Duplass, Arabella Olivia Clark dans le rôle de Bela, et le groupe de soutien.",
+      "categoryLabel": "CAST",
+      "whatIs": "Distribution d'Other Mommy",
+      "whatIsDescription": "La distribution principale d'Other Mommy et les personnages qu'ils interprètent à l'écran.",
+      "why": "Pourquoi explorer la distribution d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Résultats principaux",
+        "step1Description": "Jessica Chastain joue le rôle principal dans Other Mommy dans un rôle double.",
+        "step2Title": "Groupe de soutien",
+        "step2Description": "Rencontrez la distribution complète de soutien d'Other Mommy.",
+        "step3Title": "Personnages",
+        "step3Description": "Apprenez qui joue Bela, Russ et l'Other Mommy."
+      },
+      "featured": "Articles en vedette sur la distribution",
+      "all": "Tous les articles sur la distribution"
+    },
+    "characters": {
+      "title": "Personnages d'Other Mommy",
+      "description": "Les personnages d'Other Mommy : Bela, sa famille, et l'entité au cœur de l'horreur.",
+      "metaTitle": "Characters d'Other Mommy - Bela, l'Entité et la Famille",
+      "metaDescription": "Guide aux personnages d'Other Mommy : la jeune fille de huit ans Bela, sa mère Ursula, son père Russ et l'entité maléfique connue sous le nom d'Other Mommy.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "Characters d'Other Mommy",
+      "whatIsDescription": "Les identités et les relations des personnages d'Other Mommy, de Bela à l'entité elle-même.",
+      "why": "Pourquoi lire sur les personnages d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Bela",
+        "step1Description": "La jeune fille au centre d'Other Mommy.",
+        "step2Title": "La Famille",
+        "step2Description": "La mère, le père et la grand-mère de Bela.",
+        "step3Title": "L'Entité",
+        "step3Description": "L'Other Mommy et ce qu'elle veut de Bela."
+      },
+      "featured": "Articles de caractères vedettes",
+      "all": "Tous les articles de caractères"
+    },
+    "production": {
+      "title": "Production et coulisses d'Other Mommy",
+      "description": "Les studios, le réalisateur et les détails de production derrière Other Mommy (2026).",
+      "metaTitle": "Production d'Other Mommy - Rob Savage, Blumhouse & Universal",
+      "metaDescription": "Détails de production d'Other Mommy : réalisateur Rob Savage, producteurs Blumhouse et Atomic Monster, distributeur Universal Pictures et l'adaptation du roman.",
+      "categoryLabel": "PRODUCTION",
+      "whatIs": "Production d'Other Mommy",
+      "whatIsDescription": "Derrière les coulisses de Other Mommy : le réalisateur, les producteurs, le distributeur et le chemin du roman à l'écran.",
+      "why": "Pourquoi suivre la production d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Le Directeur",
+        "step1Description": "Rob Savage apporte son sens de l'horreur à Other Mommy.",
+        "step2Title": "Les Studios",
+        "step2Description": "Blumhouse et Atomic Monster produisent Other Mommy.",
+        "step3Title": "Distribution",
+        "step3Description": "Universal Pictures distribue Other Mommy dans le monde entier."
+      },
+      "featured": "Articles de production vedettes",
+      "all": "Tous les articles de production"
+    },
+    "trailer": {
+      "title": "Trailer et Médias d'Other Mommy",
+      "description": "Trailer officiel, teasers et matériel de marketing pour Other Mommy.",
+      "metaTitle": "Trailer, Teasers et Médias Officiels d'Other Mommy (2026)",
+      "metaDescription": "Le trailer officiel d'Other Mommy, les teasers et le lancement marketing : où le trailer a été dévoilé et ce que les images révélées sur le ton du film.",
+      "categoryLabel": "TRAILER",
+      "whatIs": "Trailer d'Other Mommy",
+      "whatIsDescription": "Trailer officiel, teasers et média promotionnels pour Other Mommy avant sa sortie en 2026.",
+      "why": "Pourquoi regarder le trailer d'Other Mommy ?",
+      "whySteps": {
+        "step1Title": "Official Trailer",
+        "step1Description": "La première vue prolongée d'Other Mommy.",
+        "step2Title": "Lancement du marketing",
+        "step2Description": "Comment la campagne 'Other Mommy' a suscité l'attente.",
+        "step3Title": "Première vision",
+        "step3Description": "L'image maternelle inquiétante de 'Other Mommy'."
+      },
+      "featured": "Articles de bande-annonce en vedette",
+      "all": "Tous les articles de bande-annonce"
+    },
+    "book": {
+      "title": "Roman 'Other Mommy': 'Incidents Around the House'",
+      "description": "Le roman de Josh Malerman qui a inspiré 'Other Mommy' et comment il se connecte au film.",
+      "metaTitle": "Incidents Around the House de Josh Malerman - Roman 'Other Mommy'",
+      "metaDescription": "Guide du roman 'Incidents Around the House' de Josh Malerman, l'œuvre originale de 'Other Mommy' : informations de publication, l'histoire du point de vue de Bela, et l'adaptation.",
+      "categoryLabel": "LE ROMAN",
+      "whatIs": "Roman source de 'Other Mommy'",
+      "whatIsDescription": "Le roman à l'origine de 'Other Mommy' : 'Incidents Around the House' par Josh Malerman, auteur de 'Bird Box'.",
+      "why": "Pourquoi lire le roman source de 'Other Mommy'?",
+      "whySteps": {
+        "step1Title": "L'Auteur",
+        "step1Description": "Josh Malerman a écrit le roman à l'origine de 'Other Mommy'.",
+        "step2Title": "L'Histoire",
+        "step2Description": "La vue d'enfant de Bela sur 'Other Mommy'.",
+        "step3Title": "L'Adaptation",
+        "step3Description": "Comment le roman est devenu le film 'Other Mommy'."
+      },
+      "featured": "Articles de roman en vedette",
+      "all": "Tous les articles de roman"
+    },
+    "reviews": {
+      "title": "Critiques et réception de 'Other Mommy'",
+      "description": "Réception précoce, l'attente du public et le contexte du box-office pour 'Other Mommy'.",
+      "metaTitle": "Critiques et réception de 'Other Mommy' et box-office (2026)",
+      "metaDescription": "Critiques de 'Other Mommy', réception précoce, l'attente du public et le contexte du box-office parmi la gamme de films d'horreur de Blumhouse 2026.",
+      "categoryLabel": "CRITIQUES",
+      "whatIs": "Critiques de 'Other Mommy'",
+      "whatIsDescription": "Contexte commercial et réception de 'Other Mommy' à l'approche des cinémas.",
+      "why": "Pourquoi suivre les critiques de 'Other Mommy'?",
+      "whySteps": {
+        "step1Title": "Réception précoce",
+        "step1Description": "La réaction du public et des médias à 'Other Mommy'.",
+        "step2Title": "Attente",
+        "step2Description": "Le buzz autour de 'Other Mommy'.",
+        "step3Title": "Box-office",
+        "step3Description": "La place de 'Other Mommy' dans la gamme de films de Blumhouse 2026."
+      },
+      "featured": "Articles de critiques en vedette",
+      "all": "Tous les articles de critiques"
+    }
   }
 }
