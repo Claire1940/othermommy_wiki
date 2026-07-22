@@ -14,7 +14,7 @@
   "common": {
     "home": "Home",
     "more": "More",
-    "playNow": "Play on Steam",
+    "playNow": "Get Tickets",
     "switchLanguage": "Switch Language",
     "switchTheme": "Switch Theme",
     "lightMode": "Light Mode",
@@ -52,696 +52,302 @@
     }
   },
   "gameFeature": {
-    "title": "Lucid Blocks Gameplay",
-    "description": "Explore surreal biomes, fuse items with Apotheosis, and survive strange creatures in this dreamlike voxel sandbox on Steam."
+    "title": "Other Mommy Film",
+    "description": "A 2026 supernatural horror film from director Rob Savage and Blumhouse, adapted from Josh Malerman's Incidents Around the House and starring Jessica Chastain in a chilling dual role."
   },
   "tools": {
-    "title": "Lucid Blocks",
-    "titleHighlight": "Resources",
-    "subtitle": "Everything you need to explore, craft, and survive in Lucid Blocks",
+    "title": "Other Mommy",
+    "titleHighlight": "Guide",
+    "subtitle": "Everything you need to know about the 2026 supernatural horror film from Blumhouse and Universal Pictures.",
     "cards": [
       {
+        "icon": "Film",
+        "title": "Other Mommy Overview",
+        "description": "Director, cast, studios, release date, and what the film is about"
+      },
+      {
         "icon": "BookOpen",
-        "title": "Beginner Guide",
-        "description": "First steps, exploration, and early progression"
+        "title": "Other Mommy Plot",
+        "description": "Bela, the entity, and the family at the heart of the horror"
       },
       {
-        "icon": "Sparkles",
-        "title": "Apotheosis Crafting",
-        "description": "Freeform fusion system and early recipes"
+        "icon": "Users",
+        "title": "Other Mommy Cast",
+        "description": "Full cast list and the roles they bring to life"
       },
       {
-        "icon": "Hammer",
-        "title": "Tools and Weapons",
-        "description": "Frost Pick, Azrael, Hookshot, and more"
+        "icon": "Ghost",
+        "title": "The Other Mommy Entity",
+        "description": "The entity's nature, demands, and connection to Bela"
       },
       {
-        "icon": "Package",
-        "title": "Storage and Inventory",
-        "description": "Cache Cubes, Cabinets, and Qualia storage"
+        "icon": "Clapperboard",
+        "title": "Other Mommy Production",
+        "description": "Rob Savage, Blumhouse, Atomic Monster, and Universal"
       },
       {
-        "icon": "Home",
-        "title": "Qualia and Base Building",
-        "description": "Personal Qualia and home base setup"
+        "icon": "Play",
+        "title": "Other Mommy Trailer",
+        "description": "Official trailer, teasers, and the marketing rollout"
       },
       {
-        "icon": "Eye",
-        "title": "World Regions",
-        "description": "Fog Meadow, Essence Morass, and more"
+        "icon": "BookText",
+        "title": "Other Mommy Novel",
+        "description": "Incidents Around the House by Josh Malerman"
       },
       {
-        "icon": "AlertTriangle",
-        "title": "Creatures and Enemies",
-        "description": "Manikins, spiders, and how to survive"
-      },
-      {
-        "icon": "ArrowRight",
-        "title": "Mobility Gear",
-        "description": "Hookshot, Glider Glove, Bee Glider"
-      },
-      {
-        "icon": "TrendingUp",
-        "title": "Farming and Growth",
-        "description": "Seed progression and material farming"
-      },
-      {
-        "icon": "Star",
-        "title": "Best Early Unlocks",
-        "description": "Priority upgrades for the first hour"
-      },
-      {
-        "icon": "ClipboardCheck",
-        "title": "Achievement Tracker",
-        "description": "All 19 Steam achievements and conditions"
-      },
-      {
-        "icon": "MessageCircle",
-        "title": "Singleplayer FAQ",
-        "description": "Platform, price, co-op, and language questions"
-      },
-      {
-        "icon": "Gamepad2",
-        "title": "Steam Deck and Controller",
-        "description": "Proton 9.0.4 setup and controller tips"
-      },
-      {
-        "icon": "Settings",
-        "title": "Settings and Accessibility",
-        "description": "Hide hands, Vulkan, and display options"
-      },
-      {
-        "icon": "Clock",
-        "title": "Updates and Patch Notes",
-        "description": "Recent fixes and roadmap notes"
-      },
-      {
-        "icon": "Shield",
-        "title": "Crash Fix",
-        "description": "Vulkan check, logs path, and bug reporting"
+        "icon": "CalendarDays",
+        "title": "Other Mommy Release",
+        "description": "Release date, theatrical rollout, and early reception"
       }
     ]
   },
   "modules": {
-    "lucidBlocksBeginnerGuide": {
-      "title": "Lucid Blocks Beginner Guide",
-      "displayType": "steps",
-      "intro": "Start by learning how exploration, fusion, and progression connect. Lucid Blocks rewards experimentation, so early progress comes from gathering unusual materials, testing combinations, and unlocking your personal Qualia.",
-      "steps": [
+    "otherMommyMovieOverview": {
+      "eyebrow": "About the Film",
+      "title": "Other Mommy Movie Overview",
+      "intro": "Other Mommy is an upcoming supernatural horror film directed by Rob Savage and produced by Blumhouse Productions and Atomic Monster, with Universal Pictures handling distribution. It adapts Josh Malerman's 2024 horror novel Incidents Around the House and reaches North American theaters on October 9, 2026. Jessica Chastain stars in a dual role as both the mother Ursula and the sinister entity known as the Other Mommy.",
+      "items": [
         {
-          "title": "Explore Before You Commit",
-          "description": "Walk outward, mine common blocks, and keep any strange drops you find. Early progress is less about fixed quests and more about discovering what materials can become."
+          "title": "Director",
+          "description": "Rob Savage, known for atmospheric, screen-life, and slow-burn horror."
         },
         {
-          "title": "Unlock Your Personal Qualia Early",
-          "description": "Your personal Qualia is one of the most important early milestones. It gives you a reliable place to regroup and build around."
+          "title": "Lead Actor",
+          "description": "Jessica Chastain plays a dual role as mother Ursula and the entity Other Mommy."
         },
         {
-          "title": "Use Osmium for Fast Early Progress",
-          "description": "Osmium is one of the most useful early materials. A popular early route is combining Osmium with sticks to make a Frost Pick for fast mining."
+          "title": "Release Date",
+          "description": "Theatrical release in North America on October 9, 2026."
         },
         {
-          "title": "Record Good Fusions",
-          "description": "Keep track of successful combinations in your journal. Lucid Blocks has many possible fusion paths, so writing down useful results saves a lot of time."
+          "title": "Studios",
+          "description": "Produced by Blumhouse Productions and Atomic Monster; distributed by Universal Pictures."
+        },
+        {
+          "title": "Based On",
+          "description": "The novel Incidents Around the House by Josh Malerman, author of Bird Box."
+        },
+        {
+          "title": "Genre",
+          "description": "Supernatural horror with domestic and psychological elements."
         }
-      ],
-      "quickTips": [
-        "Apotheosis does not require a fixed recipe list.",
-        "Infinite world generation means moving higher or deeper can reveal completely different materials.",
-        "Movement tools and utility gear become a major quality-of-life boost once you start unlocking them.",
-        "Getting lost early is normal, but useful tools, storage, and movement options snowball fast once your first good fusions start working."
       ]
     },
-    "lucidBlocksApotheosisCrafting": {
-      "title": "Lucid Blocks Apotheosis Crafting",
-      "displayType": "cards",
-      "intro": "Apotheosis is the game's unrestricted fusion system. Instead of memorizing a traditional recipe book, you combine materials, watch the result, and build your own crafting knowledge over time.",
-      "cards": [
+    "otherMommyPlotAndStory": {
+      "eyebrow": "Story",
+      "title": "Other Mommy Plot and Story",
+      "intro": "The story follows eight-year-old Bela, whose family is her entire world. But alongside her mother, her father (Daddo), and her grandmother, there is also the Other Mommy, a malevolent entity that has visited Bela for as long as she can remember and repeatedly asks to be let into her heart.",
+      "faqs": [
         {
-          "name": "Freeform Fusion",
-          "description": "Apotheosis lets you fuse together different items without needing to follow a fixed recipe list."
+          "question": "What is Other Mommy about?",
+          "answer": "Other Mommy centers on eight-year-old Bela, who is visited nightly by a malevolent entity she calls Other Mommy. The entity repeatedly asks to enter Bela's heart, and its presence intensifies as cracks appear in her parents' marriage."
         },
         {
-          "name": "Multiple Useful Outcomes",
-          "description": "Different materials often push toward certain results. Community discoveries show that similar inputs can still lead to practical tools, storage, or combat upgrades."
+          "question": "Who is Bela in Other Mommy?",
+          "answer": "Bela is the young girl at the center of Other Mommy. The tale is told from her child's-eye perspective, which amplifies the dread as she tries to make sense of a threatening force only she can see."
         },
         {
-          "name": "Journal-First Crafting",
-          "description": "The best way to learn Apotheosis is to track your successful combinations. Your journal quickly becomes your own crafting reference."
+          "question": "What does the Other Mommy want?",
+          "answer": "The Other Mommy's recurring demand is to be allowed into Bela's heart. This disturbing request is the engine of the story's tension and the source of Bela's nightly terror throughout Other Mommy."
         },
         {
-          "name": "Community-Tested Early Fusions",
-          "description": "Popular early examples include Osmium plus Stick for a Frost Pick, Stick plus Tungsten Appendage for Azrael, and Azrael plus Magnetite for the Tendril Rapier."
+          "question": "How does the family fit into Other Mommy?",
+          "answer": "In Other Mommy, the entity appears to feed on the emotional turmoil within Bela's household, particularly the marital troubles between her parents. As the family fractures, the Other Mommy grows stronger and more threatening."
+        },
+        {
+          "question": "What is the tone of Other Mommy?",
+          "answer": "Other Mommy is a slow-burn domestic horror that blends supernatural dread with family drama, keeping the threat intimate and rooted in the home."
         }
-      ],
+      ]
+    },
+    "otherMommyCastAndCharacters": {
+      "eyebrow": "Cast",
+      "title": "Other Mommy Cast and Characters",
+      "intro": "Other Mommy assembles a cast led by Jessica Chastain in a dual role, supported by Jay Duplass and young actress Arabella Olivia Clark as Bela, alongside an ensemble of familiar character actors.",
+      "cast": [
+        {
+          "actor": "Jessica Chastain",
+          "role": "Ursula / Other Mommy",
+          "note": "Plays a dual role as Bela's mother and the supernatural entity."
+        },
+        {
+          "actor": "Jay Duplass",
+          "role": "Russ",
+          "note": "Bela's father."
+        },
+        {
+          "actor": "Arabella Olivia Clark",
+          "role": "Bela",
+          "note": "The eight-year-old girl at the center of the story."
+        },
+        {
+          "actor": "Dichen Lachman",
+          "role": "Supporting Cast",
+          "note": "Joins the Other Mommy ensemble in a supporting role."
+        },
+        {
+          "actor": "Arian Moayed",
+          "role": "Supporting Cast",
+          "note": "Part of the Other Mommy supporting ensemble."
+        },
+        {
+          "actor": "Karen Allen",
+          "role": "Supporting Cast",
+          "note": "A veteran addition to the Other Mommy cast."
+        },
+        {
+          "actor": "Sean Kaufman",
+          "role": "Supporting Cast",
+          "note": "A supporting cast member in Other Mommy."
+        }
+      ]
+    },
+    "otherMommyEntity": {
+      "eyebrow": "The Entity",
+      "title": "Who Is the Other Mommy?",
+      "intro": "The Other Mommy is the malevolent entity that haunts Bela. It is not simply a ghost but a presence that seems to mirror and distort motherhood, growing in power alongside the family's emotional collapse.",
+      "faqs": [
+        {
+          "question": "What is the Other Mommy?",
+          "answer": "The Other Mommy is a malevolent supernatural entity that visits Bela and wears the shape of a mother. It appears familiar yet deeply wrong, an uncanny double of maternal care."
+        },
+        {
+          "question": "What does the Other Mommy want?",
+          "answer": "The Other Mommy's repeated request is to enter Bela's heart, a disturbing demand that drives the story's central fear and escalation."
+        },
+        {
+          "question": "Why does the Other Mommy target Bela?",
+          "answer": "The Other Mommy is drawn to the chaos and sadness in Bela's life, particularly the turmoil in her parents' marriage, and grows stronger as that turmoil deepens."
+        },
+        {
+          "question": "How does the Other Mommy behave?",
+          "answer": "The Other Mommy has visited Bela nightly for as long as she can remember. It can seem friendly at times, but its face moves and shifts in unsettling ways, signaling its true nature."
+        },
+        {
+          "question": "Is the Other Mommy connected to the family?",
+          "answer": "The Other Mommy appears to feed on the family's fractures, making the domestic drama inseparable from the supernatural threat at the heart of the film."
+        }
+      ]
+    },
+    "otherMommyProduction": {
+      "eyebrow": "Behind the Scenes",
+      "title": "Other Mommy Production",
+      "intro": "Other Mommy is a collaboration between two of the biggest names in modern horror. The adaptation brings Josh Malerman's literary terror into Blumhouse's blockbuster horror pipeline.",
+      "items": [
+        {
+          "title": "Director: Rob Savage",
+          "description": "Rob Savage directs Other Mommy, bringing his reputation for tense, innovative horror filmmaking to the project."
+        },
+        {
+          "title": "Blumhouse Productions",
+          "description": "Jason Blum's Blumhouse produces Other Mommy, the studio behind a long string of commercially successful horror hits."
+        },
+        {
+          "title": "Atomic Monster",
+          "description": "Atomic Monster co-produces Other Mommy, James Wan's horror-focused production company, partnering with Blumhouse."
+        },
+        {
+          "title": "Universal Pictures",
+          "description": "Universal Pictures handles worldwide theatrical distribution for Other Mommy, giving the film a wide studio release."
+        },
+        {
+          "title": "Based on the Novel",
+          "description": "The Other Mommy screenplay adapts Incidents Around the House, Josh Malerman's acclaimed 2024 horror novel."
+        },
+        {
+          "title": "Author Connection",
+          "description": "Josh Malerman, the author behind Other Mommy's source novel, is best known for Bird Box, which was also adapted into a major film."
+        }
+      ]
+    },
+    "otherMommyTrailerAndMedia": {
+      "eyebrow": "Media",
+      "title": "Other Mommy Trailer and Media",
+      "intro": "Marketing for Other Mommy has begun building anticipation ahead of its October 2026 release, with the official trailer giving audiences their first sustained look at the film's terrifying tone.",
+      "items": [
+        {
+          "title": "Official Trailer",
+          "description": "The official Other Mommy trailer has been released, showcasing Jessica Chastain's dual role and the film's unsettling domestic horror."
+        },
+        {
+          "title": "Trailer Debut",
+          "description": "The Other Mommy trailer was reported to be attached to theatrical screenings of The Odyssey, reaching a wide audience in cinemas."
+        },
+        {
+          "title": "Audience Reaction",
+          "description": "Early reports described the Other Mommy trailer as genuinely frightening, with accounts of jump scares startling theater audiences."
+        },
+        {
+          "title": "First Look",
+          "description": "Promotional materials for Other Mommy highlight the eerie maternal imagery and Bela's child's-eye perspective on the terror."
+        },
+        {
+          "title": "Marketing Tone",
+          "description": "The Other Mommy campaign emphasizes slow-burn dread and the uncanny presence of the Other Mommy rather than gore."
+        }
+      ]
+    },
+    "otherMommyBook": {
+      "eyebrow": "The Source Novel",
+      "title": "Other Mommy Source Novel: Incidents Around the House",
+      "intro": "Before it was a film, Other Mommy was Incidents Around the House, a chilling horror novel by Josh Malerman told entirely from the perspective of a child. The book established the entity, the family, and the dread that the adaptation brings to the screen.",
+      "items": [
+        {
+          "title": "Author: Josh Malerman",
+          "description": "The Other Mommy source novel was written by Josh Malerman, the bestselling horror author best known for Bird Box."
+        },
+        {
+          "title": "Point of View",
+          "description": "The novel behind Other Mommy is told entirely from eight-year-old Bela's perspective, heightening the fear through a child's limited understanding."
+        },
+        {
+          "title": "The Entity",
+          "description": "The book establishes the Other Mommy as a presence that has visited Bela nightly, asking to enter her heart."
+        },
+        {
+          "title": "Family Dynamics",
+          "description": "The Other Mommy novel ties the supernatural threat to the emotional fractures in Bela's family, especially her parents' troubled marriage."
+        },
+        {
+          "title": "Reception",
+          "description": "The novel that inspired Other Mommy received strong reviews from horror readers and was praised for its original, child-focused narration."
+        },
+        {
+          "title": "Adaptation",
+          "description": "The Other Mommy film adapts the novel's core premise and characters for the screen under Rob Savage's direction."
+        }
+      ]
+    },
+    "otherMommyReleaseAndReviews": {
+      "eyebrow": "Release",
+      "title": "Other Mommy Release and Reviews",
+      "intro": "Other Mommy moves from a celebrated horror novel to a major studio theatrical release. Below are the key milestones in its journey to the big screen.",
       "milestones": [
-        "Fuse an item",
-        "Fuse a vermin",
-        "Fuse a divine artifact"
-      ]
-    },
-    "lucidBlocksToolsAndWeapons": {
-      "title": "Lucid Blocks Tools and Weapons",
-      "displayType": "itemCards",
-      "intro": "Lucid Blocks mixes official utility gear with community-discovered early weapons. The best setup is usually a blend of fast mining, safe traversal, and one dependable combat option.",
-      "items": [
         {
-          "name": "Frost Pick",
-          "type": "Mining Tool",
-          "description": "A fast and affordable early pick made from Osmium and Stick. Players use it to speed up early material gathering."
+          "date": "2024",
+          "title": "Novel Published",
+          "description": "Josh Malerman's Incidents Around the House is published, introducing Bela and the Other Mommy to readers."
         },
         {
-          "name": "Azrael",
-          "type": "Starter Weapon",
-          "description": "A practical early weapon route crafted from Stick and Tungsten Appendage."
+          "date": "Pre-Production",
+          "title": "Film Adaptation Announced",
+          "description": "An Other Mommy adaptation enters development with Blumhouse and Atomic Monster producing."
         },
         {
-          "name": "Tendril Rapier",
-          "type": "Upgraded Weapon",
-          "description": "A stronger follow-up made by combining Azrael with Magnetite. It is one of the most useful early-mid combat paths shared by players."
+          "date": "2026",
+          "title": "Rob Savage Directs",
+          "description": "Rob Savage is attached to direct Other Mommy, with Jessica Chastain set to lead the cast in a dual role."
         },
         {
-          "name": "Hookshot",
-          "type": "Mobility Tool",
-          "description": "An official traversal item that greatly improves movement and vertical exploration."
+          "date": "July 2026",
+          "title": "Official Trailer Released",
+          "description": "The first official Other Mommy trailer debuts, attached to theatrical screenings of The Odyssey."
         },
         {
-          "name": "Bee Glider",
-          "type": "Mobility Tool",
-          "description": "An official movement item that helps cover space more safely and efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Weapon",
-          "description": "An official ranged utility item that expands your combat and puzzle options."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Traversal Gear",
-          "description": "An official utility item for reaching areas that would otherwise slow down exploration."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Officially highlighted as part of the core toolset and useful for breaking through threats or obstacles."
-        }
-      ]
-    },
-    "lucidBlocksStorageAndInventory": {
-      "title": "Lucid Blocks Storage and Inventory",
-      "displayType": "solutionCards",
-      "intro": "Inventory pressure starts early in Lucid Blocks, so building storage should be one of your first goals. Several real player-tested solutions already stand out.",
-      "solutions": [
-        {
-          "name": "Cache Cube",
-          "role": "Chest-Like Storage",
-          "description": "Cache Cubes are one of the earliest practical storage answers and are treated by players as the game's main chest-style container."
-        },
-        {
-          "name": "Cabinet",
-          "role": "Simple Base Storage",
-          "description": "Cabinets are another confirmed storage option. A shared early recipe uses 1 Cut Wood and 1 String."
-        },
-        {
-          "name": "Personal Qualia",
-          "role": "Long-Term Storage Hub",
-          "description": "Once unlocked, your personal Qualia becomes a natural place to organize materials, craft in peace, and expand your base setup."
-        },
-        {
-          "name": "Journal Tracking",
-          "role": "Inventory Efficiency",
-          "description": "Recording useful combinations in your journal reduces wasted materials and makes inventory management much easier."
-        }
-      ],
-      "managementTips": [
-        "Prioritize one dependable storage option before hoarding rare drops.",
-        "Build around your personal Qualia once it becomes available.",
-        "Keep crafting materials, combat tools, and movement gear separated so upgrades are easier to plan.",
-        "Use your journal as part of inventory management, not just crafting discovery."
-      ]
-    },
-    "lucidBlocksQualiaAndBaseBuilding": {
-      "title": "Lucid Blocks Qualia and Base Building",
-      "displayType": "cards",
-      "intro": "Qualia is one of the most important progression milestones in Lucid Blocks. It gives you a personal space to regroup, store materials, and gradually turn exploration progress into a real home base.",
-      "cards": [
-        {
-          "name": "Personal Qualia",
-          "description": "Unlocking a Qualia is an early milestone that gives you a more reliable place to return to while exploring the wider world."
-        },
-        {
-          "name": "Storage-First Building",
-          "description": "Many players start using their Qualia as a storage hub before turning it into a larger base with organized crafting and building space."
-        },
-        {
-          "name": "Creative Home Building",
-          "description": "Lucid Blocks supports creative building, and players are already using Qualia spaces to make houses and personalized layouts."
-        },
-        {
-          "name": "Progression Hub",
-          "description": "A strong base helps you separate exploration loot, crafting materials, seeds, tools, and mobility gear so your next upgrades are easier to plan."
-        }
-      ],
-      "highlights": [
-        "Enter a qualia",
-        "Store materials safely",
-        "Expand from utility to decoration",
-        "Use base space to support crafting and farming"
-      ]
-    },
-    "lucidBlocksWorldRegions": {
-      "title": "Lucid Blocks World Regions",
-      "displayType": "regionCards",
-      "intro": "Lucid Blocks uses infinite world generation, so players keep discovering new environments and structures. A few named places are already showing up in achievements and community discussions.",
-      "regions": [
-        {
-          "name": "Fog Meadow",
-          "type": "Community-Noted Area",
-          "description": "Fog Meadow is already known among players as a tense area associated with hidden threats and dangerous encounters."
-        },
-        {
-          "name": "Tiamana Leyline",
-          "type": "Discovery Landmark",
-          "description": "The tiamana leyline is important enough to have its own achievement milestone, making it one of the clearest named world discoveries so far."
-        },
-        {
-          "name": "Clonaqualia",
-          "type": "Build Space",
-          "description": "Players are already using Clonaqualia as a place to build houses, store materials, and experiment with more permanent layouts."
-        },
-        {
-          "name": "Essence Morass",
-          "type": "Farming Area",
-          "description": "Essence Morass is being shared by players as a useful farming location, especially for fighting slimes and gaining experience."
-        }
-      ]
-    },
-    "lucidBlocksCreaturesAndEnemies": {
-      "title": "Lucid Blocks Creatures and Enemies",
-      "displayType": "creatureCards",
-      "intro": "Lucid Blocks mixes surreal creatures with real danger. Official descriptions and community posts point to a world full of strange life, hostile threats, and a few standout encounters players remember quickly.",
-      "creatures": [
-        {
-          "name": "Manikins",
-          "role": "Hostile Enemy",
-          "description": "Manikins are one of the officially named foes in the world and part of the game's surreal threat roster."
-        },
-        {
-          "name": "Squishy Gels",
-          "role": "Hostile Enemy",
-          "description": "Squishy gels are another officially named enemy type and help define the game's strange biological style."
-        },
-        {
-          "name": "Higher-Dimensional Beings",
-          "role": "Hostile Enemy",
-          "description": "These beings are presented as part of the world's more abstract and unsettling enemy lineup."
-        },
-        {
-          "name": "Colossal Spiders",
-          "role": "Major Threat",
-          "description": "Spiders are one of the most immediately feared enemies in community discussions and are clearly a memorable danger."
-        },
-        {
-          "name": "Bubblebear",
-          "role": "Named Creature",
-          "description": "Bubblebear is notable enough to have its own achievement, which makes it one of the clearest named creature encounters in the game."
-        },
-        {
-          "name": "Cute Vermin",
-          "role": "Interactable Creature",
-          "description": "Vermin are not only part of fusion progression, they can also be renamed, giving them a more personal role than standard enemies."
-        },
-        {
-          "name": "Blasphemous Creature",
-          "role": "Elite Threat",
-          "description": "The blasphemous creature is tied to a dedicated combat achievement, marking it as a significant enemy encounter."
-        }
-      ]
-    },
-    "lucidBlocksMobilityGear": {
-      "title": "Lucid Blocks Mobility Gear",
-      "displayType": "itemCards",
-      "intro": "Movement upgrades are one of the biggest quality-of-life jumps in Lucid Blocks. Once you unlock your first traversal tools, exploration becomes faster, safer, and much more rewarding.",
-      "items": [
-        {
-          "name": "Hookshot",
-          "type": "Traversal Tool",
-          "description": "The hookshot is one of the clearest movement milestones in the game and has its own dedicated achievement."
-        },
-        {
-          "name": "Glider Glove",
-          "type": "Air Mobility",
-          "description": "The glider glove opens up much smoother travel and is another major progression milestone with its own achievement."
-        },
-        {
-          "name": "Bee Glider",
-          "type": "Traversal Tool",
-          "description": "Bee gliders are officially highlighted as part of the game's movement toolkit for covering space more efficiently."
-        },
-        {
-          "name": "Ball Wand",
-          "type": "Utility Gear",
-          "description": "Ball wands are one of the officially highlighted special tools and expand how you move through or interact with the world."
-        },
-        {
-          "name": "Scuba Diving Gear",
-          "type": "Exploration Gear",
-          "description": "Scuba diving gear is officially listed as part of the core utility set for reaching areas that would otherwise be harder to explore."
-        },
-        {
-          "name": "Explosives",
-          "type": "Utility Damage",
-          "description": "Explosives are both officially highlighted and linked to an achievement milestone, making them part of the game's core utility progression."
-        }
-      ],
-      "unlockMilestones": [
-        "Command a hookshot",
-        "Fly with the glider glove",
-        "Brandish a projectile wand",
-        "Brandish an explosive"
-      ]
-    },
-    "lucidBlocksFarmingAndGrowth": {
-      "title": "Lucid Blocks Farming and Growth",
-      "displayType": "mixedCards",
-      "intro": "Growth is part of real progression in Lucid Blocks. Farming is not only about planting and harvesting, but also about setting up repeatable material routes that keep your tools, weapons, and crafting options flowing.",
-      "sections": [
-        {
-          "name": "Seed Progression",
-          "description": "Planting and fertilizing seeds is a real milestone in the game, and harvesting a fully-grown nut is part of the same growth path."
-        },
-        {
-          "name": "Material Farming",
-          "description": "A practical early farming loop is creating Mercury Capsules, which spawn small slimes that drop Tendrils and goo for repeatable crafting materials."
-        },
-        {
-          "name": "Tool Sustain",
-          "description": "Resource farming becomes much stronger once you can consistently gather Osmium, glass shards, plants, and slime materials for follow-up crafts."
-        },
-        {
-          "name": "Base Routine",
-          "description": "The best farming setup supports more than food. It should feed your storage, movement tools, weapon upgrades, and future fusion experiments."
-        }
-      ],
-      "growthMilestones": [
-        "Fertilize a seed",
-        "Harvest a fully-grown nut",
-        "Create repeatable material loops",
-        "Turn farming into long-term progression"
-      ]
-    },
-    "lucidBlocksBestEarlyUnlocks": {
-      "title": "Lucid Blocks Best Early Unlocks",
-      "displayType": "priorityCards",
-      "intro": "The strongest early unlocks are the ones that improve safety, storage, and movement. In Lucid Blocks, a few practical upgrades can make the entire rest of the game much smoother.",
-      "priorities": [
-        {
-          "name": "Personal Qualia",
-          "priority": "Essential",
-          "description": "As soon as you get access to your personal Qualia, your run becomes much more stable. It acts as a reliable hub for storage, building, and regrouping."
-        },
-        {
-          "name": "Frost Pick",
-          "priority": "Very High",
-          "description": "A fast and cheap early mining tool made from Osmium and Stick. It is one of the most useful upgrades for accelerating early resource collection."
-        },
-        {
-          "name": "Cache Cube",
-          "priority": "Very High",
-          "description": "Storage pressure starts early, so getting your first dependable chest-style container is a major quality-of-life upgrade."
-        },
-        {
-          "name": "Hookshot",
-          "priority": "High",
-          "description": "The hookshot is one of the clearest movement milestones in the game and quickly makes exploration faster and safer."
-        },
-        {
-          "name": "Glider Glove",
-          "priority": "High",
-          "description": "The glider glove adds another major mobility boost and makes long-distance movement far more efficient."
-        },
-        {
-          "name": "Projectile Wand or Bombs",
-          "priority": "High",
-          "description": "A ranged tool or explosive option gives you a safer answer to dangerous enemies and trial-style encounters."
-        }
-      ]
-    },
-    "lucidBlocksAchievementTracker": {
-      "title": "Lucid Blocks Achievement Tracker",
-      "displayType": "achievementGrid",
-      "intro": "Lucid Blocks currently has 19 Steam achievements, and they naturally split into exploration, crafting, mobility, combat, and growth progression.",
-      "groups": [
-        {
-          "name": "Exploration",
-          "achievements": [
-            {
-              "title": "Angel α",
-              "description": "Enter a qualia."
-            },
-            {
-              "title": "Angel γ",
-              "description": "Discover a tiamana leyline."
-            },
-            {
-              "title": "Angel δ",
-              "description": "Overcome a tiamana challenge."
-            },
-            {
-              "title": "Angel ε",
-              "description": "Hidden achievement."
-            }
-          ]
-        },
-        {
-          "name": "Crafting and Summoning",
-          "achievements": [
-            {
-              "title": "Apotheosis α",
-              "description": "Fuse an item."
-            },
-            {
-              "title": "Apotheosis β",
-              "description": "Fuse a vermin."
-            },
-            {
-              "title": "Apotheosis γ",
-              "description": "Fuse a divine artifact."
-            },
-            {
-              "title": "Archangel β",
-              "description": "Summon your faith."
-            }
-          ]
-        },
-        {
-          "name": "Mobility and Utility",
-          "achievements": [
-            {
-              "title": "Virtue α",
-              "description": "Fly with the glider glove."
-            },
-            {
-              "title": "Virtue β",
-              "description": "Command a hookshot."
-            },
-            {
-              "title": "Archangel α",
-              "description": "Brandish a projectile wand."
-            },
-            {
-              "title": "Archangel γ",
-              "description": "Brandish an explosive."
-            }
-          ]
-        },
-        {
-          "name": "Combat and Creatures",
-          "achievements": [
-            {
-              "title": "Bubblebear Massacre",
-              "description": "Defeat innocent bubblebears."
-            },
-            {
-              "title": "Archangel δ",
-              "description": "Eliminate a blasphemous creature."
-            },
-            {
-              "title": "Angel β",
-              "description": "Die."
-            },
-            {
-              "title": "Dominion γ",
-              "description": "Rename a cute vermin."
-            }
-          ]
-        },
-        {
-          "name": "Growth and Farming",
-          "achievements": [
-            {
-              "title": "Dominion α",
-              "description": "Fertilize a seed."
-            },
-            {
-              "title": "Dominion β",
-              "description": "Harvest a fully-grown nut."
-            },
-            {
-              "title": "Dominion δ",
-              "description": "Hidden achievement."
-            }
-          ]
-        }
-      ]
-    },
-    "lucidBlocksSingleplayerAndPlatformFAQ": {
-      "title": "Lucid Blocks Singleplayer and Platform FAQ",
-      "displayType": "accordion",
-      "intro": "These are the core platform and access questions players keep asking before buying Lucid Blocks.",
-      "faqs": [
-        {
-          "question": "Is Lucid Blocks singleplayer?",
-          "answer": "Yes. Lucid Blocks is a singleplayer game."
-        },
-        {
-          "question": "Is multiplayer or co-op planned?",
-          "answer": "No. Multiplayer is not planned for release or future updates."
-        },
-        {
-          "question": "Where can I play Lucid Blocks?",
-          "answer": "It is currently available on Steam for Windows."
-        },
-        {
-          "question": "How much does Lucid Blocks cost?",
-          "answer": "$9.99 on Steam."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the menus are not designed around it."
-        },
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 or 9.0.4 is the commonly recommended setup for Steam Deck."
-        },
-        {
-          "question": "Does Lucid Blocks work on Linux?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "Will Mac or Android be supported?",
-          "answer": "They may be supported in the future, but they are not current launch platforms."
-        },
-        {
-          "question": "Does Lucid Blocks have translations?",
-          "answer": "No. There are currently no translations planned."
-        },
-        {
-          "question": "Will Lucid Blocks keep getting updates?",
-          "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksSteamDeckAndController": {
-      "title": "Lucid Blocks Steam Deck and Controller",
-      "displayType": "accordion",
-      "intro": "Lucid Blocks can run on Steam Deck, but the default setup may need adjustment. Keyboard and mouse remains the smoother option for menus and general play.",
-      "faqs": [
-        {
-          "question": "Does Lucid Blocks work on Steam Deck?",
-          "answer": "Yes. Proton 9.0 works well, and Proton 9.0.4 is a commonly shared fix for Steam Deck issues."
-        },
-        {
-          "question": "What should I do if Steam Deck controls are not working?",
-          "answer": "Force compatibility and switch the game to Proton 9.0.4. The default configuration may not accept controller input correctly."
-        },
-        {
-          "question": "Does Lucid Blocks support controllers?",
-          "answer": "Yes, but controller play is not recommended because the game's menus are not designed around it."
-        },
-        {
-          "question": "Is Linux support possible?",
-          "answer": "Yes. Proton 9.0 is reported to work well for Linux and Steam Deck."
-        },
-        {
-          "question": "What is the best input setup?",
-          "answer": "Keyboard and mouse is the smoothest option for menu navigation and general moment-to-moment play."
-        }
-      ]
-    },
-    "lucidBlocksSettingsAndAccessibility": {
-      "title": "Lucid Blocks Settings and Accessibility",
-      "displayType": "settingCards",
-      "intro": "Lucid Blocks already has a few practical settings and compatibility notes that matter immediately when players first launch the game.",
-      "settings": [
-        {
-          "name": "Display Settings",
-          "type": "Comfort Option",
-          "description": "Display Settings includes an option that lets players hide the on-screen hands."
-        },
-        {
-          "name": "Graphics Compatibility",
-          "type": "System Requirement",
-          "description": "Vulkan support is required for the graphics to render properly. Systems without Vulkan can run into crashes and severe graphical glitches."
-        },
-        {
-          "name": "Input Preference",
-          "type": "Control Setup",
-          "description": "Controller support exists, but keyboard and mouse gives a smoother experience because menus are not built around controller use."
-        },
-        {
-          "name": "Language Support",
-          "type": "Localization",
-          "description": "The current setup is English-only, and no translations are planned right now."
-        }
-      ]
-    },
-    "lucidBlocksUpdatesAndPatchNotes": {
-      "title": "Lucid Blocks Updates and Patch Notes",
-      "displayType": "timeline",
-      "intro": "Lucid Blocks is already receiving quick post-launch fixes and small usability updates.",
-      "entries": [
-        {
-          "title": "Update 2.8.2",
-          "type": "UI Update",
-          "description": "Renamed \"awaken\" to \"exit\" in the main menu."
-        },
-        {
-          "title": "Small Patch for Start-Up Crashes",
-          "type": "Hotfix",
-          "description": "A dedicated patch was released for players whose game was crashing on launch."
-        },
-        {
-          "title": "Post-Launch Content Support",
-          "type": "Roadmap Note",
-          "description": "Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
-        }
-      ]
-    },
-    "lucidBlocksCrashFixAndTroubleshooting": {
-      "title": "Lucid Blocks Crash Fix and Troubleshooting",
-      "displayType": "steps",
-      "intro": "Most immediate launch and crash issues should be checked in a simple order: patch level, graphics support, platform compatibility, and logs.",
-      "steps": [
-        {
-          "title": "Install the Latest Crash Hotfix",
-          "description": "If the game is crashing on start, update first and test again with the latest start-up crash patch."
-        },
-        {
-          "title": "Check Vulkan Support",
-          "description": "Lucid Blocks requires Vulkan support. Systems without Vulkan can suffer from crashes or major rendering problems."
-        },
-        {
-          "title": "Use Proton 9.0.4 on Steam Deck",
-          "description": "If Steam Deck input or launch behavior is broken, force compatibility and switch to Proton 9.0.4."
-        },
-        {
-          "title": "Collect Crash Logs",
-          "description": "Open Windows Run, paste %APPDATA%, go to lucid blocks/logs, and gather the .txt files for troubleshooting."
-        },
-        {
-          "title": "Report the Issue Properly",
-          "description": "Share the logs and device details through the official Discord bug-reports forum or on the Steam community page."
+          "date": "October 9, 2026",
+          "title": "Theatrical Release",
+          "description": "Other Mommy arrives in North American theaters, distributed by Universal Pictures."
         }
       ]
     }
@@ -749,31 +355,31 @@
   "faq": {
     "title": "Frequently Asked",
     "titleHighlight": "Questions",
-    "subtitle": "Everything you need to know about Lucid Blocks",
+    "subtitle": "Everything you need to know about Other Mommy",
     "questions": [
       {
-        "question": "Is Lucid Blocks a singleplayer game?",
-        "answer": "Yes. Lucid Blocks is a singleplayer-only game with no multiplayer or co-op planned."
+        "question": "What is Other Mommy about?",
+        "answer": "Other Mommy is a 2026 supernatural horror film about eight-year-old Bela, who is visited nightly by a malevolent entity called the Other Mommy that demands to enter her heart."
       },
       {
-        "question": "What is the Apotheosis system in Lucid Blocks?",
-        "answer": "Apotheosis is Lucid Blocks' freeform fusion crafting system. Instead of following fixed recipes, you combine materials and discover your own crafting paths."
+        "question": "When does Other Mommy come out?",
+        "answer": "Other Mommy is scheduled for a theatrical release in North America on October 9, 2026, distributed by Universal Pictures."
       },
       {
-        "question": "Where can I play Lucid Blocks?",
-        "answer": "Lucid Blocks is currently available on Steam for Windows. Linux and Steam Deck support is available through Proton 9.0."
+        "question": "Who stars in Other Mommy?",
+        "answer": "Other Mommy stars Jessica Chastain in a dual role as Bela's mother Ursula and the entity Other Mommy, alongside Jay Duplass and Arabella Olivia Clark as Bela."
       },
       {
-        "question": "How much does Lucid Blocks cost?",
-        "answer": "Lucid Blocks costs $9.99 on Steam."
+        "question": "Who directs Other Mommy?",
+        "answer": "Other Mommy is directed by Rob Savage and produced by Blumhouse Productions and Atomic Monster."
       },
       {
-        "question": "Does Lucid Blocks support controllers?",
-        "answer": "Yes, but controller play is not recommended because the menus are not designed around it. Keyboard and mouse is the smoother option."
+        "question": "What book is Other Mommy based on?",
+        "answer": "Other Mommy is adapted from Incidents Around the House, the 2024 horror novel by Josh Malerman, author of Bird Box."
       },
       {
-        "question": "Will Lucid Blocks receive updates?",
-        "answer": "Yes. Some content updates are planned after release, but they are not intended to continue on an indefinite regular schedule."
+        "question": "Where can I watch the Other Mommy trailer?",
+        "answer": "The official Other Mommy trailer has been released and can be found on YouTube, having debuted attached to theatrical screenings of The Odyssey."
       }
     ]
   },
@@ -801,125 +407,165 @@
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
-    "guides": {
-      "title": "Lucid Blocks Guides",
-      "description": "Complete gameplay guides from beginner basics to advanced Apotheosis strategies. Master survival and crafting.",
-      "metaTitle": "Lucid Blocks Guides - Beginner to Advanced Strategies",
-      "metaDescription": "Complete Lucid Blocks guides covering beginner tips, Apotheosis system, survival strategies, and expert tactics for mastering the surreal sandbox.",
-      "categoryLabel": "GAME GUIDES",
-      "whatIs": "What are Guides?",
-      "whatIsDescription": "Comprehensive guides covering gameplay mechanics, survival strategies, and the Apotheosis crafting system. Learn everything from first steps to advanced techniques.",
-      "why": "Why read guides?",
+    "release": {
+      "title": "Other Mommy Release Date and Tickets",
+      "description": "Theatrical release date, distribution, ratings, and ticket information for Other Mommy (2026).",
+      "metaTitle": "Other Mommy Release Date, Tickets & Theatrical Rollout (2026)",
+      "metaDescription": "Other Mommy release date, theatrical rollout, distribution by Universal Pictures, ratings, and ticket details for the 2026 supernatural horror film.",
+      "categoryLabel": "RELEASE",
+      "whatIs": "Other Mommy Release",
+      "whatIsDescription": "Everything about the Other Mommy theatrical release: the October 9, 2026 North American debut, Universal Pictures distribution, and where to find tickets.",
+      "why": "Why follow the Other Mommy release?",
       "whySteps": {
-        "step1Title": "Learn Core Mechanics",
-        "step1Description": "Understand the Apotheosis system and avoid common beginner mistakes",
-        "step2Title": "Fast Progression",
-        "step2Description": "Follow proven paths to survive and thrive in the surreal world",
-        "step3Title": "Master Strategies",
-        "step3Description": "Develop advanced tactics for exploration and crafting"
+        "step1Title": "Release Date",
+        "step1Description": "Other Mommy arrives in North American theaters on October 9, 2026.",
+        "step2Title": "Distribution",
+        "step2Description": "Universal Pictures handles the worldwide theatrical rollout.",
+        "step3Title": "Tickets",
+        "step3Description": "Find presale and ticketing details as the Other Mommy release approaches."
       },
-      "featured": "Featured & Essential",
-      "all": "All Guides"
+      "featured": "Featured Release Updates",
+      "all": "All Release Articles"
     },
-    "crafting": {
-      "title": "Lucid Blocks Crafting",
-      "description": "Master the Apotheosis fusion system with essence mechanics, recipes, and crafting strategies for powerful items.",
-      "metaTitle": "Lucid Blocks Crafting - Apotheosis System & Recipes",
-      "metaDescription": "Master Lucid Blocks Apotheosis crafting system. Learn essence mechanics, fusion recipes, and strategies for creating powerful tools and weapons.",
-      "categoryLabel": "CRAFTING SYSTEM",
-      "whatIs": "What is Crafting?",
-      "whatIsDescription": "The Apotheosis system is a unique essence-driven fusion mechanic where you combine up to six items to discover new recipes. No fixed crafting menus—experimentation is key.",
-      "why": "Why master crafting?",
+    "plot": {
+      "title": "Other Mommy Plot and Story Explained",
+      "description": "The full story of Other Mommy: Bela, the entity, and the family at the heart of the horror.",
+      "metaTitle": "Other Mommy Plot and Story Explained - Bela & the Entity",
+      "metaDescription": "The Other Mommy plot explained: eight-year-old Bela, the Other Mommy entity, its demand to enter her heart, and the family turmoil that feeds the horror.",
+      "categoryLabel": "PLOT",
+      "whatIs": "Other Mommy Plot",
+      "whatIsDescription": "A breakdown of the Other Mommy story: the premise, the entity's rules, and the family dynamics driving the dread.",
+      "why": "Why read the Other Mommy plot guide?",
       "whySteps": {
-        "step1Title": "Unlock Powerful Items",
-        "step1Description": "Discover essential tools, weapons, and mobility gear through fusion",
-        "step2Title": "Understand Essences",
-        "step2Description": "Learn how item essences combine to create predictable results",
-        "step3Title": "Optimize Resources",
-        "step3Description": "Use dilution mechanics to maximize output from cheap materials"
+        "step1Title": "The Premise",
+        "step1Description": "Understand Bela's nightly visits from the Other Mommy.",
+        "step2Title": "The Entity's Rules",
+        "step2Description": "Learn what the Other Mommy wants and how it grows stronger.",
+        "step3Title": "The Family",
+        "step3Description": "See how Bela's family turmoil fuels the supernatural threat."
       },
-      "featured": "Featured & Essential",
-      "all": "All Crafting Guides"
+      "featured": "Featured Plot Articles",
+      "all": "All Plot Articles"
     },
-    "items": {
-      "title": "Lucid Blocks Items",
-      "description": "Detailed item guides covering tools, weapons, mobility gear, and storage solutions with crafting recipes and usage tips.",
-      "metaTitle": "Lucid Blocks Items - Tools, Weapons & Gear Guide",
-      "metaDescription": "Complete item database for Lucid Blocks including tools, weapons, mobility gear, and storage. Learn how to craft and use every item effectively.",
-      "categoryLabel": "ITEMS & EQUIPMENT",
-      "whatIs": "What are Items?",
-      "whatIsDescription": "Comprehensive guides for tools, weapons, mobility gear, and functional items. Learn crafting recipes, usage strategies, and optimal combinations.",
-      "why": "Why check item guides?",
+    "cast": {
+      "title": "Other Mommy Cast and Actors",
+      "description": "Full cast list for Other Mommy, including Jessica Chastain's dual role and the supporting ensemble.",
+      "metaTitle": "Other Mommy Cast - Jessica Chastain, Jay Duplass & Full Cast",
+      "metaDescription": "The complete Other Mommy cast: Jessica Chastain in a dual role, Jay Duplass, Arabella Olivia Clark as Bela, and the supporting ensemble.",
+      "categoryLabel": "CAST",
+      "whatIs": "Other Mommy Cast",
+      "whatIsDescription": "The principal cast of Other Mommy and the characters they bring to life on screen.",
+      "why": "Why explore the Other Mommy cast?",
       "whySteps": {
-        "step1Title": "Learn Crafting Recipes",
-        "step1Description": "Discover how to craft essential tools and weapons using Apotheosis",
-        "step2Title": "Optimize Equipment",
-        "step2Description": "Choose the best items for your playstyle and progression stage",
-        "step3Title": "Improve Survival",
-        "step3Description": "Equip mobility gear and weapons to navigate the dangerous world"
+        "step1Title": "Lead Performances",
+        "step1Description": "Jessica Chastain leads Other Mommy in a dual role.",
+        "step2Title": "Supporting Ensemble",
+        "step2Description": "Meet the full supporting cast of Other Mommy.",
+        "step3Title": "Characters",
+        "step3Description": "Learn who plays Bela, Russ, and the Other Mommy."
       },
-      "featured": "Featured & Essential",
-      "all": "All Items"
+      "featured": "Featured Cast Articles",
+      "all": "All Cast Articles"
     },
-    "biomes": {
-      "title": "Lucid Blocks Biomes",
-      "description": "Explore world regions, environmental features, resource locations, and survival tips for each biome.",
-      "metaTitle": "Lucid Blocks Biomes - World Regions & Exploration",
-      "metaDescription": "Explore Lucid Blocks biomes including Tiamana Leylines, Fog Meadow, and surreal regions. Find resources, avoid dangers, and navigate the infinite world.",
-      "categoryLabel": "WORLD REGIONS",
-      "whatIs": "What are Biomes?",
-      "whatIsDescription": "Guides to different world regions, environmental features, resource distribution, and danger zones. Learn what to expect and how to prepare for each area.",
-      "why": "Why explore biomes?",
+    "characters": {
+      "title": "Other Mommy Characters",
+      "description": "The characters of Other Mommy: Bela, her family, and the entity at the center of the horror.",
+      "metaTitle": "Other Mommy Characters - Bela, the Entity & the Family",
+      "metaDescription": "Guide to the Other Mommy characters: eight-year-old Bela, her mother Ursula, her father Russ, and the malevolent entity known as the Other Mommy.",
+      "categoryLabel": "CHARACTERS",
+      "whatIs": "Other Mommy Characters",
+      "whatIsDescription": "The identities and relationships of the Other Mommy characters, from Bela to the entity itself.",
+      "why": "Why read about Other Mommy characters?",
       "whySteps": {
-        "step1Title": "Find Resources",
-        "step1Description": "Locate rare materials and essences specific to each region",
-        "step2Title": "Avoid Dangers",
-        "step2Description": "Understand environmental hazards and hostile creatures",
-        "step3Title": "Plan Exploration",
-        "step3Description": "Prepare the right tools and gear for each biome type"
+        "step1Title": "Bela",
+        "step1Description": "The young girl at the center of Other Mommy.",
+        "step2Title": "The Family",
+        "step2Description": "Bela's mother, father, and grandmother.",
+        "step3Title": "The Entity",
+        "step3Description": "The Other Mommy and what it wants from Bela."
       },
-      "featured": "Featured & Essential",
-      "all": "All Biomes"
+      "featured": "Featured Character Articles",
+      "all": "All Character Articles"
     },
-    "building": {
-      "title": "Lucid Blocks Building",
-      "description": "Master Qualia personal dimensions, base building, storage management, and creative construction techniques.",
-      "metaTitle": "Lucid Blocks Building - Qualia & Base Construction",
-      "metaDescription": "Master Lucid Blocks building with Qualia personal dimensions, base construction, storage solutions, and creative building techniques.",
-      "categoryLabel": "BUILDING & BASES",
-      "whatIs": "What is Building?",
-      "whatIsDescription": "Guides to the Qualia personal dimension system, base construction, storage management, and creative building. Learn to create your safe haven in the surreal world.",
-      "why": "Why build bases?",
+    "production": {
+      "title": "Other Mommy Production and Behind the Scenes",
+      "description": "The studios, director, and production details behind Other Mommy (2026).",
+      "metaTitle": "Other Mommy Production - Rob Savage, Blumhouse & Universal",
+      "metaDescription": "Other Mommy production details: director Rob Savage, producers Blumhouse and Atomic Monster, distributor Universal Pictures, and the novel adaptation.",
+      "categoryLabel": "PRODUCTION",
+      "whatIs": "Other Mommy Production",
+      "whatIsDescription": "Behind the scenes of Other Mommy: the director, producers, distributor, and the journey from novel to screen.",
+      "why": "Why follow Other Mommy production?",
       "whySteps": {
-        "step1Title": "Create Safe Spaces",
-        "step1Description": "Establish secure bases for storage and crafting operations",
-        "step2Title": "Manage Resources",
-        "step2Description": "Organize materials efficiently with storage solutions",
-        "step3Title": "Unlock Qualia",
-        "step3Description": "Access personal pocket dimensions for ultimate convenience"
+        "step1Title": "The Director",
+        "step1Description": "Rob Savage brings his horror sensibility to Other Mommy.",
+        "step2Title": "The Studios",
+        "step2Description": "Blumhouse and Atomic Monster produce Other Mommy.",
+        "step3Title": "Distribution",
+        "step3Description": "Universal Pictures releases Other Mommy worldwide."
       },
-      "featured": "Featured & Essential",
-      "all": "All Building Guides"
+      "featured": "Featured Production Articles",
+      "all": "All Production Articles"
     },
-    "support": {
-      "title": "Lucid Blocks Support",
-      "description": "Technical support, platform compatibility, performance optimization, and troubleshooting for common issues.",
-      "metaTitle": "Lucid Blocks Support - Technical Help & Fixes",
-      "metaDescription": "Get technical support for Lucid Blocks including Steam Deck setup, crash fixes, performance optimization, and platform compatibility guides.",
-      "categoryLabel": "TECHNICAL SUPPORT",
-      "whatIs": "What is Support?",
-      "whatIsDescription": "Technical guides covering platform compatibility, performance optimization, crash fixes, and common issues. Get help with Steam Deck, multiplayer questions, and settings.",
-      "why": "Why check support?",
+    "trailer": {
+      "title": "Other Mommy Trailer and Media",
+      "description": "Official trailer, teasers, and marketing materials for Other Mommy.",
+      "metaTitle": "Other Mommy Trailer, Teasers & Official Media (2026)",
+      "metaDescription": "The official Other Mommy trailer, teasers, and marketing rollout: where the trailer debuted and what the footage revealed about the film's tone.",
+      "categoryLabel": "TRAILER",
+      "whatIs": "Other Mommy Trailer",
+      "whatIsDescription": "Official trailer, teasers, and promotional media for Other Mommy ahead of its 2026 release.",
+      "why": "Why watch the Other Mommy trailer?",
       "whySteps": {
-        "step1Title": "Fix Technical Issues",
-        "step1Description": "Resolve crashes, performance problems, and compatibility issues",
-        "step2Title": "Optimize Performance",
-        "step2Description": "Configure settings for best experience on your platform",
-        "step3Title": "Platform Compatibility",
-        "step3Description": "Learn about Steam Deck, controller support, and system requirements"
+        "step1Title": "Official Trailer",
+        "step1Description": "The first sustained look at Other Mommy.",
+        "step2Title": "Marketing Rollout",
+        "step2Description": "How the Other Mommy campaign built anticipation.",
+        "step3Title": "First Look",
+        "step3Description": "The eerie maternal imagery of Other Mommy."
       },
-      "featured": "Featured & Essential",
-      "all": "All Support Articles"
+      "featured": "Featured Trailer Articles",
+      "all": "All Trailer Articles"
+    },
+    "book": {
+      "title": "Other Mommy Novel: Incidents Around the House",
+      "description": "The Josh Malerman novel that inspired Other Mommy, and how it connects to the film.",
+      "metaTitle": "Incidents Around the House by Josh Malerman - Other Mommy Novel",
+      "metaDescription": "Guide to Incidents Around the House by Josh Malerman, the source novel for Other Mommy: publication info, the story from Bela's perspective, and the adaptation.",
+      "categoryLabel": "THE NOVEL",
+      "whatIs": "Other Mommy Source Novel",
+      "whatIsDescription": "The novel behind Other Mommy: Incidents Around the House by Josh Malerman, author of Bird Box.",
+      "why": "Why read the Other Mommy source novel?",
+      "whySteps": {
+        "step1Title": "The Author",
+        "step1Description": "Josh Malerman wrote the novel behind Other Mommy.",
+        "step2Title": "The Story",
+        "step2Description": "Bela's child's-eye view of the Other Mommy.",
+        "step3Title": "The Adaptation",
+        "step3Description": "How the novel became the Other Mommy film."
+      },
+      "featured": "Featured Novel Articles",
+      "all": "All Novel Articles"
+    },
+    "reviews": {
+      "title": "Other Mommy Reviews and Reception",
+      "description": "Early reception, audience anticipation, and box office context for Other Mommy.",
+      "metaTitle": "Other Mommy Reviews, Reception & Box Office (2026)",
+      "metaDescription": "Other Mommy reviews, early reception, audience anticipation, and box office context among Blumhouse's 2026 horror slate.",
+      "categoryLabel": "REVIEWS",
+      "whatIs": "Other Mommy Reviews",
+      "whatIsDescription": "Reception and commercial context for Other Mommy as it heads to theaters.",
+      "why": "Why follow Other Mommy reviews?",
+      "whySteps": {
+        "step1Title": "Early Reception",
+        "step1Description": "How audiences and media respond to Other Mommy.",
+        "step2Title": "Anticipation",
+        "step2Description": "The buzz building around Other Mommy.",
+        "step3Title": "Box Office",
+        "step3Description": "Other Mommy's place in Blumhouse's 2026 slate."
+      },
+      "featured": "Featured Reviews Articles",
+      "all": "All Reviews Articles"
     }
   }
 }
