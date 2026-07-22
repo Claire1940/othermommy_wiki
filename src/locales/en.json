@@ -1,13 +1,13 @@
 {
   "seo": {
     "home": {
-      "title": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "description": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "keywords": "Lucid Blocks, Lucid Blocks wiki, crafting, biomes, achievements, survival, Steam",
-      "ogTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "ogDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, endings, and survival tips for the surreal voxel sandbox adventure on Steam.",
-      "twitterTitle": "Lucid Blocks Wiki - Crafting, Biomes & Achievements",
-      "twitterDescription": "Lucid Blocks Wiki covers crafting, biomes, creatures, items, achievements, and survival tips for the surreal voxel sandbox on Steam."
+      "title": "Other Mommy (2026) - Cast, Plot, Trailer & Book",
+      "description": "Other Mommy (2026) horror film guide: release date, full cast, plot, Jessica Chastain dual role, Rob Savage direction, trailer, and the Josh Malerman novel.",
+      "keywords": "Other Mommy 2026, Jessica Chastain, Rob Savage, Blumhouse, Incidents Around the House, cast, plot, trailer",
+      "ogTitle": "Other Mommy (2026) - Cast, Plot, Trailer & Book",
+      "ogDescription": "Other Mommy (2026) horror film guide: release date, full cast, plot, Jessica Chastain dual role, Rob Savage direction, trailer, and the Josh Malerman novel.",
+      "twitterTitle": "Other Mommy (2026) - Cast, Plot, Trailer & Book",
+      "twitterDescription": "Other Mommy (2026) horror film guide: release date, cast, Jessica Chastain, Rob Savage, trailer, and the Josh Malerman novel."
     }
   },
   "nav": {
@@ -34,27 +34,27 @@
     "articlesComingSoon": "Articles coming soon"
   },
   "hero": {
-    "badge": "Surreal Voxel Survival Sandbox",
-    "title": "Lucid Blocks Wiki",
-    "description": "Explore dreamlike biomes, fuse items with Apotheosis, build freely, and survive strange creatures in this surreal open-world sandbox on Steam.",
-    "getFreeCodesCTA": "Explore Crafting Guide",
-    "playOnSteamCTA": "Play on Steam",
+    "badge": "Supernatural Horror Film",
+    "title": "Other Mommy",
+    "description": "Discover Other Mommy, the 2026 supernatural horror film from director Rob Savage and Blumhouse. Jessica Chastain stars in a chilling dual role adapted from Josh Malerman's novel Incidents Around the House.",
+    "getFreeCodesCTA": "Watch Trailer",
+    "playOnSteamCTA": "Get Tickets",
     "stats": {
       "stat1": {
-        "value": "1,325",
-        "label": "Players Online"
+        "value": "Oct 9, 2026",
+        "label": "Theatrical Release"
       },
       "stat2": {
-        "value": "1,986",
-        "label": "Peak CCU"
+        "value": "Rob Savage",
+        "label": "Director"
       },
       "stat3": {
-        "value": "97%",
-        "label": "Positive Reviews"
+        "value": "Horror",
+        "label": "Genre"
       },
       "stat4": {
-        "value": "Mar 12, 2026",
-        "label": "Release Date"
+        "value": "Jessica Chastain",
+        "label": "Starring"
       }
     }
   },
@@ -785,26 +785,26 @@
     ]
   },
   "cta": {
-    "title": "Ready to Explore Lucid Blocks?",
-    "description": "Join the Lucid Blocks community on Discord for guides, updates, and discussions!",
-    "joinCommunity": "Join Discord",
-    "joinGame": "Play on Steam"
+    "title": "Ready to Experience Other Mommy?",
+    "description": "Watch the official trailer and follow the latest on Other Mommy, the 2026 supernatural horror film from Blumhouse and Universal Pictures.",
+    "joinCommunity": "Watch Trailer",
+    "joinGame": "View on IMDb"
   },
   "footer": {
-    "title": "Lucid Blocks Wiki",
-    "description": "Your complete resource hub for Lucid Blocks crafting, biomes, creatures, achievements, and survival guides.",
+    "title": "Other Mommy Wiki",
+    "description": "Your complete resource hub for Other Mommy (2026): cast, plot, trailer, release date, and the Josh Malerman novel Incidents Around the House.",
     "resources": "Resources",
-    "community": "Community",
+    "community": "Official",
     "legal": "Legal",
-    "discord": "Discord",
-    "twitter": "X / Twitter",
-    "steamCommunity": "Steam Community",
-    "steamStore": "Steam Store",
+    "discord": "Watch Trailer",
+    "twitter": "IMDb",
+    "steamCommunity": "Universal Pictures",
+    "steamStore": "Blumhouse",
     "about": "About",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "copyrightNotice": "Copyright",
-    "copyright": "© 2026 Lucid Blocks Wiki. Not affiliated with the developers of Lucid Blocks.",
+    "copyright": "© 2026 Other Mommy Wiki. Not affiliated with Universal Pictures, Blumhouse Productions, Atomic Monster, or the filmmakers.",
     "disclaimer": "Unofficial fan-made resource website."
   },
   "pages": {
