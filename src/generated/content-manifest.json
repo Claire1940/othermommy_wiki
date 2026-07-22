@@ -1,1 +1,590 @@
-{}
+{
+  "de": {
+    "book": [
+      {
+        "slug": "Other-Mommy-book-horror",
+        "file": "Other-Mommy-book-horror"
+      },
+      {
+        "slug": "Other-Mommy-book",
+        "file": "Other-Mommy-book"
+      },
+      {
+        "slug": "Other-Mommy-comes-out-of-the-closet-book",
+        "file": "Other-Mommy-comes-out-of-the-closet-book"
+      },
+      {
+        "slug": "Other-Mommy-fanart-incidents-around-the-house",
+        "file": "Other-Mommy-fanart-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-from-incidents-around-the-house",
+        "file": "Other-Mommy-from-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-horror-book",
+        "file": "Other-Mommy-horror-book"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house-art",
+        "file": "Other-Mommy-incidents-around-the-house-art"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house",
+        "file": "Other-Mommy-incidents-around-the-house"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Other-Mommy-entity",
+        "file": "Other-Mommy-entity"
+      }
+    ],
+    "production": [
+      {
+        "slug": "Other-Mommy-blumhouse",
+        "file": "Other-Mommy-blumhouse"
+      },
+      {
+        "slug": "Other-Mommy-director",
+        "file": "Other-Mommy-director"
+      },
+      {
+        "slug": "Other-Mommy-filming-locations",
+        "file": "Other-Mommy-filming-locations"
+      },
+      {
+        "slug": "Other-Mommy-universal-pictures",
+        "file": "Other-Mommy-universal-pictures"
+      },
+      {
+        "slug": "Other-Mommy-universal",
+        "file": "Other-Mommy-universal"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Other-Mommy-2026-fecha-de-estreno",
+        "file": "Other-Mommy-2026-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-age-rating",
+        "file": "Other-Mommy-age-rating"
+      },
+      {
+        "slug": "Other-Mommy-budget",
+        "file": "Other-Mommy-budget"
+      },
+      {
+        "slug": "Other-Mommy-cinemacon",
+        "file": "Other-Mommy-cinemacon"
+      },
+      {
+        "slug": "Other-Mommy-fecha-de-estreno",
+        "file": "Other-Mommy-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-initial-release",
+        "file": "Other-Mommy-initial-release"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Other-Mommy-reviews",
+        "file": "Other-Mommy-reviews"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Other-Mommy-film-trailer",
+        "file": "Other-Mommy-film-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-official-trailer"
+      },
+      {
+        "slug": "Other-Mommy-teaser",
+        "file": "Other-Mommy-teaser"
+      },
+      {
+        "slug": "Other-Mommy-trailer-2026",
+        "file": "Other-Mommy-trailer-2026"
+      },
+      {
+        "slug": "Other-Mommy-trailer-reddit",
+        "file": "Other-Mommy-trailer-reddit"
+      },
+      {
+        "slug": "Other-Mommy-trailer",
+        "file": "Other-Mommy-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-|-official-trailer"
+      }
+    ]
+  },
+  "en": {
+    "book": [
+      {
+        "slug": "Other-Mommy-book-horror",
+        "file": "Other-Mommy-book-horror"
+      },
+      {
+        "slug": "Other-Mommy-book",
+        "file": "Other-Mommy-book"
+      },
+      {
+        "slug": "Other-Mommy-comes-out-of-the-closet-book",
+        "file": "Other-Mommy-comes-out-of-the-closet-book"
+      },
+      {
+        "slug": "Other-Mommy-fanart-incidents-around-the-house",
+        "file": "Other-Mommy-fanart-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-from-incidents-around-the-house",
+        "file": "Other-Mommy-from-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-horror-book",
+        "file": "Other-Mommy-horror-book"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house-art",
+        "file": "Other-Mommy-incidents-around-the-house-art"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house",
+        "file": "Other-Mommy-incidents-around-the-house"
+      }
+    ],
+    "cast": [
+      {
+        "slug": "Other-Mommy-cast",
+        "file": "Other-Mommy-cast"
+      },
+      {
+        "slug": "Other-Mommy-jessica-chastain",
+        "file": "Other-Mommy-jessica-chastain"
+      },
+      {
+        "slug": "Other-Mommy-movie-cast",
+        "file": "Other-Mommy-movie-cast"
+      },
+      {
+        "slug": "Other-Mommy-starring-jessica-chastain-delayed-to-october-2026",
+        "file": "Other-Mommy-starring-jessica-chastain-delayed-to-october-2026"
+      },
+      {
+        "slug": "Other-Mommy-starring-jessica-chastain",
+        "file": "Other-Mommy-starring-jessica-chastain"
+      },
+      {
+        "slug": "Other-Mommy-trailer-2026-jessica-chastain",
+        "file": "Other-Mommy-trailer-(2026)-jessica-chastain"
+      },
+      {
+        "slug": "jay-duplass-Other-Mommy",
+        "file": "jay-duplass-Other-Mommy"
+      },
+      {
+        "slug": "madre-siniestra-tr-iler-oficial-espa-ol-latino-2026-jessica-chastain",
+        "file": "madre-siniestra-tráiler-oficial-español-latino-(2026)-jessica-chastain"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Other-Mommy-entity",
+        "file": "Other-Mommy-entity"
+      }
+    ],
+    "plot": [
+      {
+        "slug": "Other-Mommy-about",
+        "file": "Other-Mommy-about"
+      },
+      {
+        "slug": "Other-Mommy-book-summary",
+        "file": "Other-Mommy-book-summary"
+      },
+      {
+        "slug": "Other-Mommy-de-que-trata",
+        "file": "Other-Mommy-de-que-trata"
+      },
+      {
+        "slug": "Other-Mommy-description",
+        "file": "Other-Mommy-description"
+      },
+      {
+        "slug": "Other-Mommy-ending-explained",
+        "file": "Other-Mommy-ending-explained"
+      },
+      {
+        "slug": "Other-Mommy-explained",
+        "file": "Other-Mommy-explained"
+      },
+      {
+        "slug": "Other-Mommy-movie-plot",
+        "file": "Other-Mommy-movie-plot"
+      },
+      {
+        "slug": "Other-Mommy-plot",
+        "file": "Other-Mommy-plot"
+      }
+    ],
+    "production": [
+      {
+        "slug": "Other-Mommy-blumhouse",
+        "file": "Other-Mommy-blumhouse"
+      },
+      {
+        "slug": "Other-Mommy-director",
+        "file": "Other-Mommy-director"
+      },
+      {
+        "slug": "Other-Mommy-filming-locations",
+        "file": "Other-Mommy-filming-locations"
+      },
+      {
+        "slug": "Other-Mommy-james-wan",
+        "file": "Other-Mommy-james-wan"
+      },
+      {
+        "slug": "Other-Mommy-universal-pictures",
+        "file": "Other-Mommy-universal-pictures"
+      },
+      {
+        "slug": "Other-Mommy-universal",
+        "file": "Other-Mommy-universal"
+      },
+      {
+        "slug": "Other-Mommy-trailer-universal-pictures-hd",
+        "file": "Other-Mommy-|-trailer-(universal-pictures)---hd"
+      },
+      {
+        "slug": "james-wan-Other-Mommy-movie-delayed",
+        "file": "james-wan-Other-Mommy-movie-delayed"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Other-Mommy-2026-fecha-de-estreno",
+        "file": "Other-Mommy-2026-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-age-rating",
+        "file": "Other-Mommy-age-rating"
+      },
+      {
+        "slug": "Other-Mommy-budget",
+        "file": "Other-Mommy-budget"
+      },
+      {
+        "slug": "Other-Mommy-cinemacon",
+        "file": "Other-Mommy-cinemacon"
+      },
+      {
+        "slug": "Other-Mommy-fecha-de-estreno",
+        "file": "Other-Mommy-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-initial-release",
+        "file": "Other-Mommy-initial-release"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Other-Mommy-reviews",
+        "file": "Other-Mommy-reviews"
+      },
+      {
+        "slug": "Other-Mommy-rotten-tomatoes",
+        "file": "Other-Mommy-rotten-tomatoes"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Other-Mommy-film-trailer",
+        "file": "Other-Mommy-film-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-official-trailer"
+      },
+      {
+        "slug": "Other-Mommy-teaser",
+        "file": "Other-Mommy-teaser"
+      },
+      {
+        "slug": "Other-Mommy-trailer-2026",
+        "file": "Other-Mommy-trailer-2026"
+      },
+      {
+        "slug": "Other-Mommy-trailer-reddit",
+        "file": "Other-Mommy-trailer-reddit"
+      },
+      {
+        "slug": "Other-Mommy-trailer",
+        "file": "Other-Mommy-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-|-official-trailer"
+      }
+    ]
+  },
+  "es": {
+    "book": [
+      {
+        "slug": "Other-Mommy-book-horror",
+        "file": "Other-Mommy-book-horror"
+      },
+      {
+        "slug": "Other-Mommy-book",
+        "file": "Other-Mommy-book"
+      },
+      {
+        "slug": "Other-Mommy-comes-out-of-the-closet-book",
+        "file": "Other-Mommy-comes-out-of-the-closet-book"
+      },
+      {
+        "slug": "Other-Mommy-fanart-incidents-around-the-house",
+        "file": "Other-Mommy-fanart-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-from-incidents-around-the-house",
+        "file": "Other-Mommy-from-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-horror-book",
+        "file": "Other-Mommy-horror-book"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house-art",
+        "file": "Other-Mommy-incidents-around-the-house-art"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house",
+        "file": "Other-Mommy-incidents-around-the-house"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Other-Mommy-entity",
+        "file": "Other-Mommy-entity"
+      }
+    ],
+    "production": [
+      {
+        "slug": "Other-Mommy-blumhouse",
+        "file": "Other-Mommy-blumhouse"
+      },
+      {
+        "slug": "Other-Mommy-director",
+        "file": "Other-Mommy-director"
+      },
+      {
+        "slug": "Other-Mommy-filming-locations",
+        "file": "Other-Mommy-filming-locations"
+      },
+      {
+        "slug": "Other-Mommy-universal-pictures",
+        "file": "Other-Mommy-universal-pictures"
+      },
+      {
+        "slug": "Other-Mommy-universal",
+        "file": "Other-Mommy-universal"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Other-Mommy-2026-fecha-de-estreno",
+        "file": "Other-Mommy-2026-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-age-rating",
+        "file": "Other-Mommy-age-rating"
+      },
+      {
+        "slug": "Other-Mommy-budget",
+        "file": "Other-Mommy-budget"
+      },
+      {
+        "slug": "Other-Mommy-cinemacon",
+        "file": "Other-Mommy-cinemacon"
+      },
+      {
+        "slug": "Other-Mommy-fecha-de-estreno",
+        "file": "Other-Mommy-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-initial-release",
+        "file": "Other-Mommy-initial-release"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Other-Mommy-reviews",
+        "file": "Other-Mommy-reviews"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Other-Mommy-film-trailer",
+        "file": "Other-Mommy-film-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-official-trailer"
+      },
+      {
+        "slug": "Other-Mommy-teaser",
+        "file": "Other-Mommy-teaser"
+      },
+      {
+        "slug": "Other-Mommy-trailer-2026",
+        "file": "Other-Mommy-trailer-2026"
+      },
+      {
+        "slug": "Other-Mommy-trailer-reddit",
+        "file": "Other-Mommy-trailer-reddit"
+      },
+      {
+        "slug": "Other-Mommy-trailer",
+        "file": "Other-Mommy-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-|-official-trailer"
+      }
+    ]
+  },
+  "fr": {
+    "book": [
+      {
+        "slug": "Other-Mommy-book-horror",
+        "file": "Other-Mommy-book-horror"
+      },
+      {
+        "slug": "Other-Mommy-book",
+        "file": "Other-Mommy-book"
+      },
+      {
+        "slug": "Other-Mommy-comes-out-of-the-closet-book",
+        "file": "Other-Mommy-comes-out-of-the-closet-book"
+      },
+      {
+        "slug": "Other-Mommy-fanart-incidents-around-the-house",
+        "file": "Other-Mommy-fanart-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-from-incidents-around-the-house",
+        "file": "Other-Mommy-from-incidents-around-the-house"
+      },
+      {
+        "slug": "Other-Mommy-horror-book",
+        "file": "Other-Mommy-horror-book"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house-art",
+        "file": "Other-Mommy-incidents-around-the-house-art"
+      },
+      {
+        "slug": "Other-Mommy-incidents-around-the-house",
+        "file": "Other-Mommy-incidents-around-the-house"
+      }
+    ],
+    "characters": [
+      {
+        "slug": "Other-Mommy-entity",
+        "file": "Other-Mommy-entity"
+      }
+    ],
+    "production": [
+      {
+        "slug": "Other-Mommy-blumhouse",
+        "file": "Other-Mommy-blumhouse"
+      },
+      {
+        "slug": "Other-Mommy-director",
+        "file": "Other-Mommy-director"
+      },
+      {
+        "slug": "Other-Mommy-filming-locations",
+        "file": "Other-Mommy-filming-locations"
+      },
+      {
+        "slug": "Other-Mommy-universal-pictures",
+        "file": "Other-Mommy-universal-pictures"
+      },
+      {
+        "slug": "Other-Mommy-universal",
+        "file": "Other-Mommy-universal"
+      }
+    ],
+    "release": [
+      {
+        "slug": "Other-Mommy-2026-fecha-de-estreno",
+        "file": "Other-Mommy-2026-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-age-rating",
+        "file": "Other-Mommy-age-rating"
+      },
+      {
+        "slug": "Other-Mommy-budget",
+        "file": "Other-Mommy-budget"
+      },
+      {
+        "slug": "Other-Mommy-cinemacon",
+        "file": "Other-Mommy-cinemacon"
+      },
+      {
+        "slug": "Other-Mommy-fecha-de-estreno",
+        "file": "Other-Mommy-fecha-de-estreno"
+      },
+      {
+        "slug": "Other-Mommy-initial-release",
+        "file": "Other-Mommy-initial-release"
+      }
+    ],
+    "reviews": [
+      {
+        "slug": "Other-Mommy-reviews",
+        "file": "Other-Mommy-reviews"
+      }
+    ],
+    "trailer": [
+      {
+        "slug": "Other-Mommy-film-trailer",
+        "file": "Other-Mommy-film-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-official-trailer"
+      },
+      {
+        "slug": "Other-Mommy-teaser",
+        "file": "Other-Mommy-teaser"
+      },
+      {
+        "slug": "Other-Mommy-trailer-2026",
+        "file": "Other-Mommy-trailer-2026"
+      },
+      {
+        "slug": "Other-Mommy-trailer-reddit",
+        "file": "Other-Mommy-trailer-reddit"
+      },
+      {
+        "slug": "Other-Mommy-trailer",
+        "file": "Other-Mommy-trailer"
+      },
+      {
+        "slug": "Other-Mommy-official-trailer",
+        "file": "Other-Mommy-|-official-trailer"
+      }
+    ]
+  }
+}

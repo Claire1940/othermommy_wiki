@@ -10,7 +10,16 @@
       "twitterDescription": "Other Mommy (2026) horror film guide: release date, cast, Jessica Chastain, Rob Savage, trailer, and the Josh Malerman novel."
     }
   },
-  "nav": {},
+  "nav": {
+    "release": "Release",
+    "plot": "Plot",
+    "cast": "Cast",
+    "characters": "Characters",
+    "production": "Production",
+    "trailer": "Trailer",
+    "book": "Book",
+    "reviews": "Reviews"
+  },
   "common": {
     "home": "Home",
     "more": "More",

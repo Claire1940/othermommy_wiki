@@ -1,1 +1,12 @@
-{}
+{
+  "nav": {
+    "release": "Release",
+    "plot": "Plot",
+    "cast": "Cast",
+    "characters": "Characters",
+    "production": "Production",
+    "trailer": "Trailer",
+    "book": "Book",
+    "reviews": "Reviews"
+  }
+}
