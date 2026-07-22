@@ -1,0 +1,105 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Other Mommy (2026 film) - Bande-annonce officielle & Guide rapide",
+  description: "Découvrez la bande-annonce officielle et le guide essentiel pour Other Mommy (film 2026). Apprenez les mécanismes clés, les stratégies et plus encore.",
+  category: "Guide",
+  image: "https://placehold.co/800x400/059669/fff?text=Other+Mommy+2026+Guide",
+  date: "2026-07-22",
+  author: "Équipe Wiki du film Other Mommy (2026)"
+}
+
+<Callout type="info" title="Guide rapide">
+- **Bande-annonce officielle** : Regardez la bande-annonce officielle pour obtenir un aperçu du gameplay et de l'histoire.
+- **Mécanismes clés** : Explorez les mécanismes uniques qui distinguent Other Mommy.
+- **Meilleure stratégie** : Apprenez la stratégie recommandée pour le succès.
+- **Conseil crucial** : Obtenez des conseils essentiels pour jouer au jeu efficacement.
+- **Choix optimal** : Découvrez le choix optimal pour votre style de jeu.
+</Callout>
+
+<Section icon={Map} title="Bande-annonce officielle">
+
+**Points forts du vidéo :**
+- Annonce de la date de sortie officielle
+- Vidéos de gameplay montrant les mécanismes clés
+- Entretiens avec le casting et le crew
+- Teaser de l'histoire et du cadre du jeu
+
+<YouTubeEmbed videoId="bEpTgowZ1dI" title="Other Mommy | Bande-annonce officielle" />
+
+</Section>
+
+<Section icon={Swords} title="Mécanismes clés">
+
+**Mécanismes :**
+- **Système de combat** : Aperçu du système de combat et comment l'utiliser efficacement.
+- **Gestion des ressources** : Comment gérer les ressources efficacement.
+- **Exploration** : Conseils pour explorer le monde du jeu et découvrir des secrets.
+
+<Callout type="tip" title="Conseil avancé">
+Concentrez-vous sur la gestion des ressources pour vous assurer d'avoir suffisamment de ressources pour les mises à niveau et le combat.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Meilleure stratégie">
+
+**Stratégie :**
+- **Sélection de personnage** : Conseils pour choisir le bon personnage pour votre style de jeu.
+- **Niveau** : Comment monter en niveau rapidement et efficacement.
+- **PvP et PvE** : Stratégies pour le jeu contre les joueurs (PvP) et le jeu contre l'environnement (PvE).
+
+<Steps>
+  <Step num="1" title="Sélection de personnage">
+    Choisissez un personnage qui complète votre style de jeu et vos forces.
+  </Step>
+  <Step num="2" title="Niveau">
+    Concentrez-vous sur l'amélioration des compétences et des capacités de votre personnage.
+  </Step>
+  <Step num="3" title="PvP et PvE">
+    Adaptez votre stratégie en fonction de la situation, que ce soit PvP ou PvE.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Objectifs et liste de contrôle">
+
+<Checklist
+  id="game-goals"
+  title="Objectifs essentiels :"
+  items={[
+    "Terminer la quête principale",
+    "Débloquer tous les personnages",
+    "Atteindre tous les trophées",
+    "Maîtriser tous les mécanismes de jeu"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "De quoi parle l'histoire principale du jeu ?",
+    answer: "Le jeu suit l'histoire d'une jeune fille qui découvre qu'elle fait partie d'un monde parallèle où elle doit combattre l'Autre Maman."
+  },
+  {
+    question: "Comment puis-je améliorer mon personnage ?",
+    answer: "Améliorez votre personnage en collectant des ressources et en accomplissant des quêtes."
+  },
+  {
+    question: "Puis-je jouer au jeu seul ou avec des amis ?",
+    answer: "Le jeu peut être joué seul, mais il y a aussi des modes coopératifs où vous pouvez jouer avec des amis."
+  }
+]} />
+
+</Section>

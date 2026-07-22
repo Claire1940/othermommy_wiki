@@ -1,0 +1,105 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Other Mommy (2026 Film) - Offizielles Trailer & Schnellguide",
+  description: "Entdecke den offiziellen Trailer und den grundlegenden Leitfaden für Other Mommy (2026 Film). Lerne die wichtigsten Mechaniken, Strategien und mehr.",
+  category: "Leitfaden",
+  image: "https://placehold.co/800x400/059669/fff?text=Other+Mommy+2026+Guide",
+  date: "2026-07-22",
+  author: "Other Mommy (2026 Film) Wiki Team"
+}
+
+<Callout type="info" title="Schnellguide">
+- **Offizielles Trailer**: Sehe dir den offiziellen Trailer an, um einen Einblick in das Gameplay und die Geschichte zu bekommen.
+- **Wichtige Mechaniken**: Entdecke die einzigartigen Mechaniken, die Other Mommy auszeichnen.
+- **Beste Strategie**: Lerne die empfohlene Strategie für den Erfolg.
+- **Wichtiger Tipp**: Hol dir notwendige Ratschläge, um das Spiel effektiv zu spielen.
+- **Optimaler Wahl**: Finde heraus, welche Wahl am besten zu deinem Spielstil passt.
+</Callout>
+
+<Section icon={Map} title="Offizielles Trailer">
+
+**Video-Highlights:**
+- Ankündigung des offiziellen Veröffentlichungsdatums
+- Gameplay-Footage, die die wichtigsten Mechaniken zeigt
+- Interviews mit Besetzung und Crew
+- Teaser der Geschichte und des Szenarios des Spiels
+
+<YouTubeEmbed videoId="bEpTgowZ1dI" title="Other Mommy | Offizielles Trailer" />
+
+</Section>
+
+<Section icon={Swords} title="Wichtige Mechaniken">
+
+**Mechaniken:**
+- **Kampfsystem**: Übersicht über das Kampfsystem und wie man es effektiv einsetzt.
+- **Ressourcenverwaltung**: Lerne, wie man Ressourcen effizient verwaltet.
+- **Entdeckung**: Tipps für die Erkundung der Spielwelt und das Entdecken von Geheimnissen.
+
+<Callout type="tip" title="Pro-Tipp">
+Setze auf die Ressourcenverwaltung, um sicherzustellen, dass du genügend Ressourcen für Upgrades und Kampf hast.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Beste Strategie">
+
+**Strategie:**
+- **Charakterauswahl**: Tipps für die Auswahl des richtigen Charakters für deinen Spielstil.
+- **Leveln**: Wie man schnell und effizient levelt.
+- **PvP und PvE**: Strategien für beide Spielmodi, Spieler gegen Spieler und Spieler gegen Umgebung.
+
+<Steps>
+  <Step num="1" title="Charakterauswahl">
+    Wähle einen Charakter, der zu deinem Spielstil und deinen Stärken passt.
+  </Step>
+  <Step num="2" title="Leveln">
+    Konzentriere dich darauf, die Fähigkeiten und Fähigkeiten deines Charakters zu verbessern.
+  </Step>
+  <Step num="3" title="PvP und PvE">
+    Anpassung deiner Strategie basierend auf der Situation, ob es PvP oder PvE ist.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Ziele und Aufgabenliste">
+
+<Checklist
+  id="game-goals"
+  title="Wichtige Ziele:"
+  items={[
+    "Vollständige Hauptstory",
+    "Alle Charaktere freischalten",
+    "Alle Errungenschaften erreichen",
+    "Alle Spielmechaniken beherrschen"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="FAQ">
+
+<FAQ items={[
+  {
+    question: "Worum geht es in der Hauptgeschichte des Spiels?",
+    answer: "Das Spiel erzählt die Geschichte einer jungen Frau, die entdeckt, dass sie Teil einer parallelen Welt ist, in der sie gegen die Other Mommy kämpfen muss."
+  },
+  {
+    question: "Wie kann ich meinen Charakter aufrüsten?",
+    answer: "Rüste deinen Charakter auf, indem du Ressourcen sammelst und Questen abschließt."
+  },
+  {
+    question: "Kann ich das Spiel alleine oder mit Freunden spielen?",
+    answer: "Das Spiel kann alleine gespielt werden, aber es gibt auch kooperative Spielmodi, in denen du mit Freunden spielen kannst."
+  }
+]} />
+
+</Section>

@@ -1,0 +1,105 @@
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout } from '@/components/mdx/Callout'
+import { Card, CardGrid } from '@/components/mdx/CardGrid'
+import { Checklist } from '@/components/mdx/Checklist'
+import { FAQ } from '@/components/mdx/FAQ'
+import { Steps, Step } from '@/components/mdx/Steps'
+import { Section } from '@/components/mdx/Section'
+import { YouTubeEmbed } from '@/components/mdx/YouTubeEmbed'
+
+export const metadata = {
+  title: "Other Mommy (2026 película) - Tráiler Oficial y Guía Rápida",
+  description: "Descubre el tráiler oficial y guía esencial para Other Mommy (2026 película). Aprende las mecánicas clave, estrategias y más.",
+  category: "Guía",
+  image: "https://placehold.co/800x400/059669/fff?text=Other+Mommy+2026+Guide",
+  date: "2026-07-22",
+  author: "Equipo de Wiki de Other Mommy (2026 película)"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Tráiler Oficial**: Mira el tráiler oficial para obtener una vista previa del juego y la historia.
+- **Mecánicas Clave**: Explora las mecánicas únicas que distinguen a Other Mommy.
+- **Mejor Estrategia**: Aprende la estrategia recomendada para el éxito.
+- **Consejo Crítico**: Obtén consejos esenciales para jugar el juego de manera efectiva.
+- **Elección Optima**: Descubre la elección óptima para tu estilo de juego.
+</Callout>
+
+<Section icon={Map} title="Tráiler Oficial">
+
+**Destacados del Video:**
+- Anuncio de la fecha de lanzamiento oficial
+- Capturas de gameplay que muestran las mecánicas clave
+- Entrevistas con el elenco y el equipo
+- Teaser de la historia y el entorno del juego
+
+<YouTubeEmbed videoId="bEpTgowZ1dI" title="Other Mommy | Tráiler Oficial" />
+
+</Section>
+
+<Section icon={Swords} title="Mecánicas Clave">
+
+**Mecánicas:**
+- **Sistema de Combate**: Resumen del sistema de combate y cómo usarlo de manera efectiva.
+- **Gestión de Recursos**: Aprende cómo gestionar recursos de manera eficiente.
+- **Exploración**: Consejos para explorar el mundo del juego y descubrir secretos.
+
+<Callout type="tip" title="Consejo Avanzado">
+Enfócate en la gestión de recursos para asegurarte de tener suficientes recursos para las mejoras y el combate.
+</Callout>
+
+</Section>
+
+<Section icon={Target} title="Mejor Estrategia">
+
+**Estrategia:**
+- **Selección de Personaje**: Consejos para elegir el personaje adecuado para tu estilo de juego.
+- **Subida de Nivel**: Cómo subir de nivel rápidamente y de manera eficiente.
+- **PvP y PvE**: Estrategias para ambos modos de juego jugador contra jugador y jugador contra entorno.
+
+<Steps>
+  <Step num="1" title="Selección de Personaje">
+    Elige un personaje que complementa tu estilo de juego y fortalezas.
+  </Step>
+  <Step num="2" title="Subida de Nivel">
+    Enfócate en mejorar las habilidades y habilidades de tu personaje.
+  </Step>
+  <Step num="3" title="PvP y PvE">
+    Ajusta tu estrategia según la situación, ya sea PvP o PvE.
+  </Step>
+</Steps>
+
+</Section>
+
+<Section icon={Trophy} title="Objetivos y Lista de Verificación">
+
+<Checklist
+  id="game-goals"
+  title="Objetivos Esenciales:"
+  items={[
+    "Completar la historia principal",
+    "Desbloquear todos los personajes",
+    "Lograr todos los logros",
+    "Dominar todas las mecánicas del juego"
+  ]}
+/>
+
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+
+<FAQ items={[
+  {
+    question: "¿De qué trata la historia principal del juego?",
+    answer: "El juego sigue a una niña joven que descubre que es parte de un mundo paralelo donde tiene que luchar contra la Otra Mamá."
+  },
+  {
+    question: "¿Cómo puedo mejorar a mi personaje?",
+    answer: "Mejora a tu personaje recolectando recursos y completando misiones."
+  },
+  {
+    question: "¿Puedo jugar el juego solo o con amigos?",
+    answer: "El juego se puede jugar solo, pero también hay modos cooperativos donde puedes jugar con amigos."
+  }
+]} />
+
+</Section>
