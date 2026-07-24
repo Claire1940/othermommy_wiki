@@ -1,0 +1,125 @@
+import { Callout } from '@/components/mdx/Callout'
+
+export const metadata = {
+  title: "Other Mommy Rating",
+  description: "Cada artículo debe utilizar al menos una vez todos los siguientes componentes:",
+}
+
+### 🚨 Requisitos Obligatorios (deben cumplirse estrictamente - prioridad máxima)
+
+#### Uso Obligatorio de Componentes
+Cada artículo debe utilizar al menos una vez todos los siguientes componentes:
+- ✅ **Section** - Cada sección principal (obligatorio, generalmente 4-6 secciones)
+- ✅ **Callout** - Al menos 2-3 (usar diferentes tipos: tip/warning/info/success)
+  - **Importante**: Cada sección debe contener al menos un Callout
+- ✅ **CardGrid/Card** - Al menos 1 grupo (3-4 tarjetas, comparación en paralelo)
+- ✅ **Steps** - Al menos 1 guía de pasos (3-5 pasos)
+- ✅ **Checklist** - Al menos 1 lista (3-5 proyectos)
+- ✅ **FAQ** - Al menos 1 (3-4 preguntas y respuestas)
+- ✅ **Tabla** - Al menos 2-5
+
+#### Reglas Obligatorias de Uso de Videos
+- ⚠️ **El mismo video solo se puede usar una vez**, no se permite el uso repetido del mismo video en el artículo
+- Solo se pueden insertar videos altamente relevantes para las palabras clave principales (1-2 más relevantes)
+- Si todos los videos son irrelevantes, no se insertan videos
+
+#### Reglas de Uso del Componente Callout
+- **Cada sección debe contener al menos un Callout**
+- Usar diferentes tipos de tipo: tip, warning, info, success
+- Usado para resaltar consejos importantes, información de advertencia, sugerencias profesionales
+
+---
+
+## 📝 Guía de Escritura de Artículos
+
+#### Título del Artículo
+- "Other Mommy (película de 2026) Reseña: Descubriendo el Horror en el Armario"
+
+#### Resumen del Artículo
+- Este artículo ofrece una reseña exhaustiva de la película de terror de 2026, "Other Mommy", incluyendo su argumento, personajes y análisis del argumento aterrador.
+
+#### Estructura del Artículo
+```jsx
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout, Card, CardGrid, Checklist, FAQ, Steps, Step, Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Other Mommy (película de 2026) Reseña: Descubriendo el Horror en el Armario",
+  description: "Explora el argumento aterrador y los personajes de la película de terror de 2026, 'Other Mommy', en esta reseña detallada.",
+  category: "Reseña",
+  image: "https://placehold.co/800x400/059669/fff?text=Other+Mommy+Review",
+  date: "2026-07-24",
+  author: "Equipo de Wiki de Other Mommy (película de 2026)"
+}
+
+<Callout type="info" title="Guía Rápida">
+- **Resumen del Argumento**: Una niña joven se enfrenta a una entidad siniestra conocida como 'Other Mommy'.
+- **Personajes Clave**: Introducción a los personajes principales.
+- **Elementos de Terror**: Análisis de los elementos de terror presentes en la película.
+</Callout>
+
+<Section icon={Map} title="Resumen del Argumento">
+El argumento de "Other Mommy" gira en torno a una niña de 8 años, Bela, que vive en una casa con problemas matrimoniales. Encuentra una entidad siniestra, 'Other Mommy', que emerge de su armario y comienza a amenazarla y a su familia.
+</Section>
+
+<Section icon={Swords} title="Personajes Clave">
+- **Bela**: La protagonista de la película, una niña joven que se enfrenta a 'Other Mommy'.
+- **Other Mommy**: El antagonista, una entidad siniestra que aparece en el armario de Bela.
+- **Padre**: El padre de Bela, que a menudo se representa durmiendo o ausente.
+- **Madre**: La madre de Bela, que está abrumada por la situación.
+</Section>
+
+<Section icon={Trophy} title="Elementos de Terror">
+La película incorpora varios elementos de terror, incluyendo:
+- Una entidad siniestra que emerge de un lugar aparentemente común (el armario).
+- Problemas matrimoniales y violencia doméstica.
+- El impacto psicológico en la protagonista y su familia.
+</Section>
+
+<Section icon={Target} title="Guía Paso a Paso">
+<Steps>
+  <Step num="1" title="Introducción">
+    La película comienza con una escena que introduce las dificultades de la familia de Bela.
+  </Step>
+  <Step num="2" title="Encuentro">
+    Bela descubre a 'Other Mommy' en su armario, lo que lleva a una serie de eventos aterradoros.
+  </Step>
+  <Step num="3" title="Conflicto">
+    Bela y su familia intentan entender la entidad y encontrar una manera de detenerla.
+  </Step>
+  <Step num="4" title="Resolución">
+    La película alcanza un clímax, revelando la verdad detrás de 'Other Mommy' y su conexión con la familia.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Shield} title="Preguntas Frecuentes">
+<FAQ items={[
+  {
+    question: "¿Cuál es el tema principal de 'Other Mommy'?",
+    answer: "El tema principal es el impacto psicológico de la violencia doméstica en una familia y el miedo al desconocido."
+  },
+  {
+    question: "¿'Other Mommy' se basa en un libro?",
+    answer: "Sí, se basa en la novela 'Incidents Around the House' de Josh Malerman."
+  },
+  {
+    question: "¿Cuál es el entorno de la película?",
+    answer: "La película se sitúa en una casa moderna con problemas matrimoniales."
+  }
+]} />
+</Section>
+
+<Section icon={Sparkles} title="Conclusión">
+"Other Mommy" es una película de terror aterrador y reflexiva que ahonda en el impacto psicológico de la violencia doméstica y el miedo al desconocido. Es una película que acompaña al espectador mucho después de que se hayan cerrado los créditos."
+</Section>
+```
+
+---
+
+Recordatorios importantes:
+1. El uso de todos los componentes debe seguir las reglas de los componentes MDX.
+2. Todo el contenido debe proceder de merged_data o fuentes externas verificadas.
+3. Asegúrese de que la estructura del artículo sea clara y que el contenido tenga lógica.
+4. Siga las reglas de restricción de sitio y las reglas de filtrado de relevancia de contenido.
+5. Escribe desde la perspectiva del editor, evitando mencionar las fuentes.

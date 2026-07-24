@@ -1,0 +1,125 @@
+import { Callout } from '@/components/mdx/Callout'
+
+export const metadata = {
+  title: "Other Mommy Rating",
+  description: "Chaque article doit utiliser au moins une fois tous les composants suivants :",
+}
+
+### 🚨 Obligations obligatoires (à respecter strictement - priorité la plus élevée)
+
+#### Obligations de composants
+Chaque article doit utiliser au moins une fois tous les composants suivants :
+- ✅ **Section** - Chaque chapitre principal (obligatoire, généralement 4-6 sections)
+- ✅ **Callout** - Au moins 2-3 (en utilisant différents types : tip/warning/info/success)
+  - **Important** : Chaque section doit utiliser au moins une fois un composant Callout
+- ✅ **CardGrid/Card** - Au moins 1 ensemble (3-4 cartes, affichant des comparaisons en colonnes)
+- ✅ **Steps** - Au moins 1 processus en étapes (3-5 étapes)
+- ✅ **Checklist** - Au moins 1 liste (3-5 éléments)
+- ✅ **FAQ** - Au moins 1 (3-4 groupes de questions-réponses)
+- ✅ **Tableau** - Au moins 2-5
+
+#### Règles de vidéo
+- ⚠️ **La même vidéo ne peut être utilisée qu'une seule fois**. Il est interdit d'intégrer plusieurs fois la même vidéo dans un article.
+- Ne intégrez que des vidéos hautement pertinentes pour les mots-clés principaux (1-2 des plus pertinentes).
+- Si toutes les vidéos ne sont pas pertinentes, ne intégrez aucune vidéo.
+
+#### Règles de composant Callout
+- **Chaque section doit utiliser au moins une fois un composant Callout**
+- Utilisez différents types de type : tip, warning, info, success
+- Utilisés pour mettre en avant des conseils importants, des informations d'avertissement, des conseils professionnels
+
+---
+
+## 📝 Guide de rédaction de l'article
+
+#### Titre de l'article
+- "Other Mommy (film de 2026) Avis : Découvrant l'Horreur dans le Dressing"
+
+#### Aperçu de l'article
+- Cet article fournit une critique détaillée du film d'horreur de 2026, "Other Mommy", y compris son intrigue, ses personnages et l'analyse de la thématique glaçante.
+
+#### Structure de l'article
+```jsx
+import { Map, Swords, Trophy, Target, Shield, Sparkles } from 'lucide-react'
+import { Callout, Card, CardGrid, Checklist, FAQ, Steps, Step, Section } from '@/components/mdx/Section'
+
+export const metadata = {
+  title: "Other Mommy (film de 2026) Avis : Découvrant l'Horreur dans le Dressing",
+  description: "Explorez la thématique glaçante et les personnages du film d'horreur de 2026, 'Other Mommy', dans cette critique détaillée.",
+  category: "Avis",
+  image: "https://placehold.co/800x400/059669/fff?text=Other+Mommy+Review",
+  date: "2026-07-24",
+  author: "Équipe de Wiki du film Other Mommy (2026)"
+}
+
+<Callout type="info" title="Guide Rapide">
+- **Résumé de l'Intrigue** : Une jeune fille confronte une entité sinistre appelée 'Other Mommy'.
+- **Personnages Clés** : Introduction aux personnages principaux.
+- **Éléments d'Horreur** : Analyse des éléments d'horreur présents dans le film.
+</Callout>
+
+<Section icon={Map} title="Résumé de l'Intrigue">
+L'intrigue du film "Other Mommy" se concentre autour d'une fille de 8 ans, Bela, qui vit dans une maison avec des problèmes conjugaux. Elle rencontre une entité sinistre, 'Other Mommy', qui émerge de son dressing et commence à menacer elle et sa famille.
+</Section>
+
+<Section icon={Swords} title="Personnages Clés">
+- **Bela** : La héroïne du film, une jeune fille qui se confronte à 'Other Mommy'.
+- **Other Mommy** : Le méchant, une entité sinistre qui apparaît dans le dressing de Bela.
+- **Père** : Le père de Bela, souvent représenté comme endormi ou absent.
+- **Mère** : La mère de Bela, submergée par la situation.
+</Section>
+
+<Section icon={Trophy} title="Éléments d'Horreur">
+Le film intègre plusieurs éléments d'horreur, y compris :
+- Une entité sinistre qui émerge d'un endroit apparemment ordinaire (le dressing).
+- Des problèmes conjugaux et la violence domestique.
+- L'impact psychologique sur la héroïne et sa famille.
+</Section>
+
+<Section icon={Target} title="Guide Étape par Étape">
+<Steps>
+  <Step num="1" title="Introduction">
+    Le film commence par une scène introduisant les difficultés de la famille de Bela.
+  </Step>
+  <Step num="2" title="Rencontre">
+    Bela découvre 'Other Mommy' dans son dressing, entraînant une série d'événements terrifiants.
+  </Step>
+  <Step num="3" title="Conflit">
+    Bela et sa famille essaient de comprendre l'entité et de trouver un moyen de l'arrêter.
+  </Step>
+  <Step num="4" title="Résolution">
+    Le film atteint un climax, révélant la vérité derrière 'Other Mommy' et son lien avec la famille.
+  </Step>
+</Steps>
+</Section>
+
+<Section icon={Shield} title="FAQ">
+<FAQ items={[
+  {
+    question: "Quel est le thème principal de 'Other Mommy'?",
+    answer: "Le thème principal est l'impact psychologique de la violence domestique sur une famille et la peur de l'inconnu."
+  },
+  {
+    question: "Est-ce que 'Other Mommy' est basé sur un livre?",
+    answer: "Oui, il est basé sur le roman 'Incidents Around the House' de Josh Malerman."
+  },
+  {
+    question: "Dans quel cadre est-il tourné le film?",
+    answer: "Le film se déroule dans une maison moderne avec des problèmes conjugaux."
+  }
+]} />
+</Section>
+
+<Section icon={Sparkles} title="Conclusion">
+"Other Mommy" est un film d'horreur glaçant et réfléchissant qui plonge dans l'impact psychologique de la violence domestique et la peur de l'inconnu. C'est un film qui reste avec le spectateur longtemps après les crédits."
+</Section>
+```
+
+---
+
+Remarques importantes :
+1. Toutes les utilisations des composants doivent respecter les règles des composants MDX.
+2. Toutes les informations doivent provenir de merged_data ou de sources externes vérifiées.
+3. Assurez-vous que la structure de l'article est claire et que le contenu est logique.
+4. Suivez les contraintes du site et les règles de filtrage de contenu pertinent.
+5. Écrivez sous le point de vue de l'éditeur, sans mentionner les sources.
